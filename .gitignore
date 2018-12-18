@@ -1,0 +1,12 @@
+# General
+.DS_Store
+node_modules
+
+# Directories
+build
+.history
+.vscode
+
+# Files
+yarn.lock
+*.log
