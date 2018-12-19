@@ -9,6 +9,7 @@ module.exports = function() {
       default: Date.now
     },
     enddate: String,
+    title: String,
     url: String,
     copyright: String
   })
