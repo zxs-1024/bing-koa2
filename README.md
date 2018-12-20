@@ -11,3 +11,7 @@
 ### 异步 JavaScript 函数
 
 [async](https://github.com/caolan/async)
+
+### API 命名规范
+
+[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)

@@ -1,11 +1,11 @@
 const router = require('koa-router')()
-const BingController = require('../controller/BingController')
+const ImageController = require('../controller/ImageController')
 
-router.prefix('/bing')
+router.prefix('/v1/bing')
 
-router.get('/getAll', BingController.getAll)
-router.get('/getById', BingController.getById)
-router.get('/getByDate', BingController.getByDate)
-router.get('/getByPage', BingController.getByPage)
+router.get('/images', ImageController.getImagesAll)
+router.get('/images/:id', ImageController.getImagesById)
+router.get('/images/date/:data', ImageController.getImageByDate)
+router.get('/images/page/:page', ImageController.getImageByPage)
 
 module.exports = router

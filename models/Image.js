@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 
 module.exports = function() {
   // define schema
-  const BingSchema = new Schema({
+  const ImageSchema = new Schema({
     date: {
       type: Date,
       default: Date.now
@@ -15,12 +15,12 @@ module.exports = function() {
     copyright: String
   })
 
-  BingSchema.plugin(mongoosePaginate)
+  ImageSchema.plugin(mongoosePaginate)
 
   mongoosePaginate.paginate.options = {
     lean: true,
     limit: 10
   }
 
-  mongoose.model('Bing', BingSchema)
+  mongoose.model('Image', ImageSchema)
 }
