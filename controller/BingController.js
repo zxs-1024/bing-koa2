@@ -39,6 +39,12 @@ class BingController {
     const images = await Bing.find({ enddate: date })
     ctx.body = images
   }
+
+  static async getByPage(ctx) {
+    const { page } = ctx.query
+    const images = await Bing.paginate({}, { page })
+    ctx.body = images
+  }
 }
 
 module.exports = BingController
