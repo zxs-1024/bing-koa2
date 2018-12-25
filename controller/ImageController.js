@@ -7,11 +7,12 @@ const sort = { date: -1 }
 
 class ImageController {
   static async getImagesAll(ctx) {
-    const collect = await Image.find({})
-      .sort(sort)
-      .limit(100)
+    const count = await Image.count({})
 
-    if (collect && collect.length) {
+    if (count) {
+      const collect = await Image.find({})
+        .sort(sort)
+        .limit(100)
       ctx.body = collect
     } else {
       handleImportLocalCollect(Image)
@@ -21,8 +22,8 @@ class ImageController {
 
   static async getImagesById(ctx) {
     const { id } = ctx.params
-    const images = await Image.findOne({ _id: id })
-    ctx.body = images
+    const image = await Image.findById(id)
+    ctx.body = image
   }
 
   static async getImageByDate(ctx) {
@@ -35,7 +36,7 @@ class ImageController {
 
   static async getImageByPage(ctx) {
     const { page } = ctx.params
-    const images = await Image.paginate({}, { page, sort })
+    const images = await Image.paginate({}, { page, limit: 12, sort })
     ctx.body = images
   }
 }
