@@ -4,16 +4,19 @@ const Schema = mongoose.Schema
 
 module.exports = function() {
   // define schema
-  const ImageSchema = new Schema({
-    date: {
-      type: Date,
-      default: Date.now
+  const ImageSchema = new Schema(
+    {
+      date: {
+        type: Date,
+        default: Date.now
+      },
+      enddate: String,
+      title: String,
+      url: String,
+      copyright: String
     },
-    enddate: String,
-    title: String,
-    url: String,
-    copyright: String
-  })
+    { timestamps: true }
+  )
 
   ImageSchema.plugin(mongoosePaginate)
 

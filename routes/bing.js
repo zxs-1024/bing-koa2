@@ -6,6 +6,6 @@ router.prefix('/v1/bing')
 router.get('/images', ImageController.getImagesAll)
 router.get('/images/:id', ImageController.getImagesById)
 router.get('/images/date/:data', ImageController.getImageByDate)
-router.get('/images/page/:page', ImageController.getImageByPage)
+router.get('/images/:page/:limit', ImageController.getImageByPage)
 
 module.exports = router
