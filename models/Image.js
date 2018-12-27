@@ -6,14 +6,12 @@ module.exports = function() {
   // define schema
   const ImageSchema = new Schema(
     {
-      date: {
-        type: Date,
-        default: Date.now
-      },
-      enddate: String,
-      title: String,
+      dateString: String,
+      date: { type: Date, default: Date.now },
       url: String,
-      copyright: String
+      name: String,
+      copyright: String,
+      detail: { type: Schema.Types.ObjectId, ref: 'Detail' }
     },
     { timestamps: true }
   )

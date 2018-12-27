@@ -1,8 +1,11 @@
 require('../models/Image')()
+require('../models/Detail')()
+
 const mongoose = require('mongoose')
 const Image = mongoose.model('Image')
-const { handleImportLocalCollect } = require('../utils/index.js')
+const Detail = mongoose.model('Detail')
 
+const multiTableQuery = require('../utils/multiTableQuery')
 const sort = { date: -1 }
 
 class ImageController {
@@ -15,21 +18,24 @@ class ImageController {
         .limit(100)
       ctx.body = collect
     } else {
-      handleImportLocalCollect(Image)
+      // trans local data
+      await multiTableQuery()
       ctx.body = await Image.find({})
+        .sort(sort)
+        .limit(100)
     }
   }
 
   static async getImagesById(ctx) {
     const { id } = ctx.params
-    const image = await Image.findById(id)
+    const image = await Image.findById(id).populate({ path: 'detail' })
     ctx.body = image
   }
 
   static async getImageByDate(ctx) {
     const { data } = ctx.params
     const images = await Image.find({
-      enddate: { $regex: data }
+      dateString: { $regex: data }
     }).sort(sort)
     ctx.body = images
   }
