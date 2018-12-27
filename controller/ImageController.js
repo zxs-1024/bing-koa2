@@ -35,8 +35,11 @@ class ImageController {
   }
 
   static async getImageByPage(ctx) {
-    const { page } = ctx.params
-    const images = await Image.paginate({}, { page, limit: 12, sort })
+    const { page, limit = 10 } = ctx.params
+    const images = await Image.paginate(
+      {},
+      { page, limit: Number(limit), sort }
+    )
     ctx.body = images
   }
 }
