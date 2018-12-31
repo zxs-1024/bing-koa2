@@ -1,7 +1,7 @@
 const router = require('koa-router')()
 const ImageController = require('../controller/ImageController')
 
-router.prefix('/bing/api/v1/bing')
+router.prefix('/bing/api/v1')
 
 router.get('/images', ImageController.getImagesAll)
 router.get('/images/:id', ImageController.getImagesById)
