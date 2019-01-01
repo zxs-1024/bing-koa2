@@ -1,7 +1,5 @@
 # bing-koa2
 
-:tada: bing-koa2
-
 ## 插件
 
 ### 分页插件
@@ -18,6 +16,8 @@
 [restify](http://restify.com/docs/home/)
 
 ## 服务器部署
+
+进入服务器文件夹， git clone 项目。
 
 ### 安装 pm2
 
@@ -66,3 +66,5 @@ nginx -s reload
 ## 参考资料
 
 [mongoose 基础入门](https://www.cnblogs.com/xiaohuochai/p/7215067.html#anchor9)
+
+[mongoose populate 多表关联查询](https://www.jianshu.com/p/817ff51bd548)
