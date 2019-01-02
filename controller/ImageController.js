@@ -5,8 +5,13 @@ const mongoose = require('mongoose')
 const Image = mongoose.model('Image')
 const Detail = mongoose.model('Detail')
 
-const multiTableQuery = require('../utils/multiTableQuery')
+const { multiTableQuery } = require('../utils/multiTableQuery')
+const schedule = reuqire('../utils/schedule.js')
+
 const sort = { date: -1 }
+
+// 添加定时任务
+schedule()
 
 class ImageController {
   static async getImagesAll(ctx) {

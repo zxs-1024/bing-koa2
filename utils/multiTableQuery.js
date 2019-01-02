@@ -14,7 +14,7 @@ const Detail = mongoose.model('Detail')
 const collectPath = 'collect'
 const detailsPath = 'detail'
 
-async function main() {
+async function multiTableQuery() {
   const resolvePath = path.resolve(__dirname, '../', collectPath)
   const files = await readdir(resolvePath)
 
@@ -53,4 +53,7 @@ async function handleSaveData(imageData, detailData) {
   })
 }
 
-module.exports = main
+module.exports = {
+  multiTableQuery,
+  handleSaveData
+}

@@ -1,15 +1,9 @@
 const schedule = require('node-schedule')
+const puppeteer = require('puppeteer')
 const axios = require('axios')
 const dayjs = require('dayjs')
-const puppeteer = require('puppeteer')
 
-// var j = schedule.scheduleJob({ hour: 21, minute: 48 }, function() {
-//   console.log('Time for tea!')
-// })
-
-// var b = schedule.scheduleJob('49 * * * *', function() {
-//   console.log('The answer to life, the universe, and everything!')
-// })
+const { handleSaveData } = require('./multiTableQuery')
 
 const url =
   'https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1546351489339&pid=hp&video=1'
@@ -17,7 +11,11 @@ const storyUrl = 'https://cn.bing.com/cnhp/coverstory?d='
 const detailUrl = 'https://cn.bing.com/cnhp/life?currentDate='
 const time = dayjs().format('YYYYMMDD')
 
-async function main() {
+schedule.scheduleJob('8 * * *', function() {
+  console.log('The answer to life, the universe, and everything!')
+})
+
+async function schedule() {
   const browser = await puppeteer.launch({
     headless: true,
     timeout: 0,
@@ -55,10 +53,9 @@ async function main() {
     Longitude,
     Latitude
   }
-  console.log(collect)
-}
 
-main()
+  await handleSaveData(image, collect)
+}
 
 function handleGetBingImageData() {
   return axios.get(url).then(({ data: { images } }) => {
@@ -143,3 +140,5 @@ async function puppeteerFn(page, date) {
     }
   }, date)
 }
+
+module.exports = schedule
