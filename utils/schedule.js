@@ -11,11 +11,11 @@ const storyUrl = 'https://cn.bing.com/cnhp/coverstory?d='
 const detailUrl = 'https://cn.bing.com/cnhp/life?currentDate='
 const time = dayjs().format('YYYYMMDD')
 
-schedule.scheduleJob('8 * * *', function() {
+schedule.scheduleJob('1 * * *', function() {
   console.log('The answer to life, the universe, and everything!')
 })
 
-async function schedule() {
+async function main() {
   const browser = await puppeteer.launch({
     headless: true,
     timeout: 0,
@@ -75,6 +75,7 @@ function handleGetBingImageData() {
       url,
       urlBase1,
       urlBase2,
+      name,
       copyright
     }
   })
@@ -141,4 +142,4 @@ async function puppeteerFn(page, date) {
   }, date)
 }
 
-module.exports = schedule
+module.exports = main

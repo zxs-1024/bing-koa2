@@ -6,7 +6,7 @@ const Image = mongoose.model('Image')
 const Detail = mongoose.model('Detail')
 
 const { multiTableQuery } = require('../utils/multiTableQuery')
-const schedule = reuqire('../utils/schedule.js')
+const schedule = require('../utils/schedule.js')
 
 const sort = { date: -1 }
 
