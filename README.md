@@ -36,6 +36,38 @@ pm2 start ./bin/www --watch
 pm2 start 就是 npm start，会帮你调用 node ./bin/www;
 --watch 监听 koa2 应用代码，当代码发生变化，pm2 会帮你重启服务。
 
+### 安装 puppeteer
+
+使用 nrm 切换镜像源
+
+```bash
+nrm use taobao
+npm i puppeteer
+```
+
+可能会下载失败，需要设置国内镜像源
+
+```js
+ERROR: Failed to download Chromium r609904! Set "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD" env variable to skip download.
+{ Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+```
+
+设置国内镜像源
+
+```bash
+PUPPETEER_DOWNLOAD_HOST=https://storage.googleapis.com.cnpmjs.org
+```
+
+如果仍旧下载不成功，可以尝试使用 cnpm
+
+```bash
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm i puppeteer
+```
+
 ### nginx 接口代理
 
 编辑 nginx.conf 配置
