@@ -11,10 +11,6 @@ const storyUrl = 'https://cn.bing.com/cnhp/coverstory?d='
 const detailUrl = 'https://cn.bing.com/cnhp/life?currentDate='
 const time = dayjs().format('YYYYMMDD')
 
-schedule.scheduleJob('1 * * *', function() {
-  console.log('The answer to life, the universe, and everything!')
-})
-
 async function main() {
   const browser = await puppeteer.launch({
     headless: true,
@@ -142,4 +138,10 @@ async function puppeteerFn(page, date) {
   }, date)
 }
 
-module.exports = main
+module.exports = () => {
+  const time = '1 * * *'
+  schedule.scheduleJob(time, function() {
+    main()
+    console.log(`The schedule.scheduleJob ${time} !`)
+  })
+}
