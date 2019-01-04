@@ -4,209 +4,299 @@
     "date": 1475193600000,
     "url": "http://cdn.nanxiongnandi.com/bing/RakotzBridge_ZH-CN9323170058_1366x768.jpg",
     "name": "RakotzBridge_ZH-CN9323170058",
-    "copyright": "Kromlau小镇上杜鹃园里的魔鬼桥，德国萨克森州 (© Fotoatelier Berlin/Getty Images)(Bing China)"
+    "copyright": "Kromlau小镇上杜鹃园里的魔鬼桥，德国萨克森州 (© Fotoatelier Berlin/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "萨克森州"
   },
   {
     "dateString": "20160929",
     "date": 1475107200000,
     "url": "http://cdn.nanxiongnandi.com/bing/WhooperSwans_ZH-CN14237745323_1366x768.jpg",
     "name": "WhooperSwans_ZH-CN14237745323",
-    "copyright": "屈斜路湖的大天鹅，日本北海道 (© Ocean/Corbis)(Bing China)"
+    "copyright": "屈斜路湖的大天鹅，日本北海道 (© Ocean/Corbis)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20160928",
     "date": 1475020800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MontVentoux_ZH-CN13938704019_1366x768.jpg",
     "name": "MontVentoux_ZH-CN13938704019",
-    "copyright": "旺图山上空的云雾，法国 (© Drone Under/Nimia)(Bing China)"
+    "copyright": "旺图山上空的云雾，法国 (© Drone Under/Nimia)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "普罗旺斯"
   },
   {
     "dateString": "20160927",
     "date": 1474934400000,
     "url": "http://cdn.nanxiongnandi.com/bing/FentonLake_ZH-CN12244750610_1366x768.jpg",
     "name": "FentonLake_ZH-CN12244750610",
-    "copyright": "芬顿湖中雨雾缭绕的小岛，苏必利尔湖省立公园，加拿大安大略省 (© Mike Grandmaison/Getty Images)(Bing China)"
+    "copyright": "芬顿湖中雨雾缭绕的小岛，苏必利尔湖省立公园，加拿大安大略省 (© Mike Grandmaison/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "安大略省"
   },
   {
     "dateString": "20160926",
     "date": 1474848000000,
     "url": "http://cdn.nanxiongnandi.com/bing/ConcertHallReykjavik_ZH-CN9594278223_1366x768.jpg",
     "name": "ConcertHallReykjavik_ZH-CN9594278223",
-    "copyright": "雷克雅未克的哈尔帕音乐厅，冰岛 (© Juan Carlos Muñoz/age fotostock)(Bing China)"
+    "copyright": "雷克雅未克的哈尔帕音乐厅，冰岛 (© Juan Carlos Muñoz/age fotostock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "冰岛",
+    "City": "雷克雅未克"
   },
   {
     "dateString": "20160925",
     "date": 1474761600000,
     "url": "http://cdn.nanxiongnandi.com/bing/WickerVillage_ZH-CN7840880999_1366x768.jpg",
     "name": "WickerVillage_ZH-CN7840880999",
-    "copyright": "昆卡附近的藤条园圃，西班牙 (© David Santiago Garcia/Aurora Photos)(Bing China)"
+    "copyright": "昆卡附近的藤条园圃，西班牙 (© David Santiago Garcia/Aurora Photos)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "西班牙",
+    "City": "昆卡"
   },
   {
     "dateString": "20160924",
     "date": 1474675200000,
     "url": "http://cdn.nanxiongnandi.com/bing/BrownHares_ZH-CN6625339934_1366x768.jpg",
     "name": "BrownHares_ZH-CN6625339934",
-    "copyright": "高高草丛里的棕色欧洲野兔  (© Jackie Bale/Getty Images)(Bing China)"
+    "copyright": "高高草丛里的棕色欧洲野兔  (© Jackie Bale/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20160923",
     "date": 1474588800000,
     "url": "http://cdn.nanxiongnandi.com/bing/GreatSandDunes_ZH-CN9339214708_1366x768.jpg",
     "name": "GreatSandDunes_ZH-CN9339214708",
-    "copyright": "大沙丘国家公园，美国科罗拉多州 (© Ian Shive/Tandem Stills + Motion)(Bing China)"
+    "copyright": "大沙丘国家公园，美国科罗拉多州 (© Ian Shive/Tandem Stills + Motion)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "大沙丘国家公园"
   },
   {
     "dateString": "20160922",
     "date": 1474502400000,
     "url": "http://cdn.nanxiongnandi.com/bing/HarvestedRice_ZH-CN13176366387_1366x768.jpg",
     "name": "HarvestedRice_ZH-CN13176366387",
-    "copyright": "【今日秋分】大丰收的稻草束，广西龙胜各族自治县 (© Federico Ravassard/500px)(Bing China)"
+    "copyright": "【今日秋分】大丰收的稻草束，广西龙胜各族自治县 (© Federico Ravassard/500px)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "中国",
+    "City": "桂林市"
   },
   {
     "dateString": "20160921",
     "date": 1474416000000,
     "url": "http://cdn.nanxiongnandi.com/bing/CheshireAutumn_ZH-CN9485229632_1366x768.jpg",
     "name": "CheshireAutumn_ZH-CN9485229632",
-    "copyright": "柴郡的秋色，英国  (© 2015 Light and Time Productions/Nimia)(Bing China)"
+    "copyright": "柴郡的秋色，英国  (© 2015 Light and Time Productions/Nimia)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "柴郡"
   },
   {
     "dateString": "20160920",
     "date": 1474329600000,
     "url": "http://cdn.nanxiongnandi.com/bing/LadakhIndia_ZH-CN9406594317_1366x768.jpg",
     "name": "LadakhIndia_ZH-CN9406594317",
-    "copyright": "拉达克，印度 (© Nutthavood Punpeng/500px)(Bing China)"
+    "copyright": "拉达克，印度 (© Nutthavood Punpeng/500px)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "印度",
+    "City": "拉达克"
   },
   {
     "dateString": "20160919",
     "date": 1474243200000,
     "url": "http://cdn.nanxiongnandi.com/bing/Castelmezzano_ZH-CN12653760581_1366x768.jpg",
     "name": "Castelmezzano_ZH-CN12653760581",
-    "copyright": "卡斯泰尔梅扎诺小镇，意大利 (© Federico Ravassard/500px)(Bing China)"
+    "copyright": "卡斯泰尔梅扎诺小镇，意大利 (© Federico Ravassard/500px)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利 ",
+    "City": "波坦察省"
   },
   {
     "dateString": "20160918",
     "date": 1474156800000,
     "url": "http://cdn.nanxiongnandi.com/bing/SofiaBulgaria_ZH-CN11033924029_1366x768.jpg",
     "name": "SofiaBulgaria_ZH-CN11033924029",
-    "copyright": "雾气氤氲的索菲亚，保加利亚 (© Ivan Dimitrov/Solent News/REX/Shutterstock)(Bing China)"
+    "copyright": "雾气氤氲的索菲亚，保加利亚 (© Ivan Dimitrov/Solent News/REX/Shutterstock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "保加利亚",
+    "City": "索菲亚"
   },
   {
     "dateString": "20160917",
     "date": 1474070400000,
     "url": "http://cdn.nanxiongnandi.com/bing/OktoberfestRide_ZH-CN11055319166_1366x768.jpg",
     "name": "OktoberfestRide_ZH-CN11055319166",
-    "copyright": "慕尼黑啤酒节的游乐设施，慕尼黑，德国 (© Wolfilser/Shutterstock)(Bing China)"
+    "copyright": "慕尼黑啤酒节的游乐设施，慕尼黑，德国 (© Wolfilser/Shutterstock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "慕尼黑"
   },
   {
     "dateString": "20160916",
     "date": 1473984000000,
     "url": "http://cdn.nanxiongnandi.com/bing/WebbChapelParkPavilion_ZH-CN11684993453_1366x768.jpg",
     "name": "WebbChapelParkPavilion_ZH-CN11684993453",
-    "copyright": "Webb教堂公园里一个建筑的室内吊顶，达拉斯，德克萨斯州 (© ARCHPHOTO/Gallery Stock)(Bing China)"
+    "copyright": "Webb教堂公园里一个建筑的室内吊顶，达拉斯，德克萨斯州 (© ARCHPHOTO/Gallery Stock)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "达拉斯"
   },
   {
     "dateString": "20160915",
     "date": 1473897600000,
     "url": "http://cdn.nanxiongnandi.com/bing/MoonCakeMold_ZH-CN11119629461_1366x768.jpg",
     "name": "MoonCakeMold_ZH-CN11119629461",
-    "copyright": "【今日中秋】各式各样的月饼模具，浙江 (© greenlin/Moment Open/Getty)(Bing China)"
+    "copyright": "【今日中秋】各式各样的月饼模具，浙江 (© greenlin/Moment Open/Getty)(Bing China)",
+    "Continent": "",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20160914",
     "date": 1473811200000,
     "url": "http://cdn.nanxiongnandi.com/bing/UmpquaLichen_ZH-CN10130045538_1366x768.jpg",
     "name": "UmpquaLichen_ZH-CN10130045538",
-    "copyright": "在乌姆普夸国家森林的柱状玄武岩石材，美国俄勒冈州 (© Jaynes Gallery/Danita Delimont)(Bing China)"
+    "copyright": "在乌姆普夸国家森林的柱状玄武岩石材，美国俄勒冈州 (© Jaynes Gallery/Danita Delimont)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "俄勒冈州"
   },
   {
     "dateString": "20160913",
     "date": 1473724800000,
     "url": "http://cdn.nanxiongnandi.com/bing/Meteora_ZH-CN6763889417_1366x768.jpg",
     "name": "Meteora_ZH-CN6763889417",
-    "copyright": "米特奥拉的Roussanou修道院 ，希腊 (© Stian Rekdal/Nimia)(Bing China)"
+    "copyright": "米特奥拉的Roussanou修道院 ，希腊 (© Stian Rekdal/Nimia)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "希腊",
+    "City": "色萨利大区"
   },
   {
     "dateString": "20160912",
     "date": 1473638400000,
     "url": "http://cdn.nanxiongnandi.com/bing/RedSeaWhip_ZH-CN9478576547_1366x768.jpg",
     "name": "RedSeaWhip_ZH-CN9478576547",
-    "copyright": "金贝湾的一群剃刀鱼略过红色海鞭的枝杈，新不列颠岛，巴布亚新几内亚 (© David Doubilet/Getty Images)(Bing China)"
+    "copyright": "金贝湾的一群剃刀鱼略过红色海鞭的枝杈，新不列颠岛，巴布亚新几内亚 (© David Doubilet/Getty Images)(Bing China)",
+    "Continent": "大洋洲",
+    "Country": "巴布亚新几内亚",
+    "City": "新不列颠岛"
   },
   {
     "dateString": "20160911",
     "date": 1473552000000,
     "url": "http://cdn.nanxiongnandi.com/bing/LakeSuperior_ZH-CN8092503607_1366x768.jpg",
     "name": "LakeSuperior_ZH-CN8092503607",
-    "copyright": "苏必利尔湖的岩石小岛鸟瞰图，桑德贝市，加拿大安大略省 (© Rolf Hicker/Getty Images)(Bing China)"
+    "copyright": "苏必利尔湖的岩石小岛鸟瞰图，桑德贝市，加拿大安大略省 (© Rolf Hicker/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "桑德贝市"
   },
   {
     "dateString": "20160910",
     "date": 1473465600000,
     "url": "http://cdn.nanxiongnandi.com/bing/YonneRiver_ZH-CN12864189829_1366x768.jpg",
     "name": "YonneRiver_ZH-CN12864189829",
-    "copyright": "桑斯附近的约纳河，约纳部，勃艮第 (© Florentin Gagoum/500px)(Bing China)"
+    "copyright": "桑斯附近的约纳河，约纳部，勃艮第 (© Florentin Gagoum/500px)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "勃艮第"
   },
   {
     "dateString": "20160909",
     "date": 1473379200000,
     "url": "http://cdn.nanxiongnandi.com/bing/ScotsPine_ZH-CN12887650002_1366x768.jpg",
     "name": "ScotsPine_ZH-CN12887650002",
-    "copyright": "苏拉群岛上的苏格兰松树，松恩-菲尤拉讷，挪威 (© Orsolya Haarberg/Minden Pictures)(Bing China)"
+    "copyright": "苏拉群岛上的苏格兰松树，松恩-菲尤拉讷，挪威 (© Orsolya Haarberg/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "挪威",
+    "City": "松恩-菲尤拉讷"
   },
   {
     "dateString": "20160908",
     "date": 1473292800000,
     "url": "http://cdn.nanxiongnandi.com/bing/Stadsbiblioteket_ZH-CN6055045711_1366x768.jpg",
     "name": "Stadsbiblioteket_ZH-CN6055045711",
-    "copyright": "斯德哥尔摩公共图书馆，瑞典斯德哥尔摩 (© Gallery Stock)(Bing China)"
+    "copyright": "斯德哥尔摩公共图书馆，瑞典斯德哥尔摩 (© Gallery Stock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "瑞典",
+    "City": "斯德哥尔摩"
   },
   {
     "dateString": "20160907",
     "date": 1473206400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Dongjiang_ZH-CN10434068279_1366x768.jpg",
     "name": "Dongjiang_ZH-CN10434068279",
-    "copyright": "【今日白露】东江上的一叶扁舟，广东省 (© Li Feng/500px)(Bing China)"
+    "copyright": "【今日白露】东江上的一叶扁舟，广东省 (© Li Feng/500px)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "中国",
+    "City": "东江"
   },
   {
     "dateString": "20160906",
     "date": 1473120000000,
     "url": "http://cdn.nanxiongnandi.com/bing/PhnomKulenNP_ZH-CN10975081651_1366x768.jpg",
     "name": "PhnomKulenNP_ZH-CN10975081651",
-    "copyright": "荔枝山国家公园的瀑布，柬埔寨 (© f9photos/Shutterstock)(Bing China)"
+    "copyright": "荔枝山国家公园的瀑布，柬埔寨 (© f9photos/Shutterstock)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "柬埔寨",
+    "City": "荔枝山国家公园"
   },
   {
     "dateString": "20160905",
     "date": 1473033600000,
     "url": "http://cdn.nanxiongnandi.com/bing/UrbanPainters_ZH-CN8992212566_1366x768.jpg",
     "name": "UrbanPainters_ZH-CN8992212566",
-    "copyright": "一名粉刷工人换上了件新外套 (© Ognian Medarov/500px)(Bing China)"
+    "copyright": "一名粉刷工人换上了件新外套 (© Ognian Medarov/500px)(Bing China)",
+    "Continent": "",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20160904",
     "date": 1472947200000,
     "url": "http://cdn.nanxiongnandi.com/bing/PortageValley_ZH-CN9734172700_1366x768.jpg",
     "name": "PortageValley_ZH-CN9734172700",
-    "copyright": "楚加奇国家森林的波蒂奇湖，阿拉斯加州 (© Ron Niebrugge/Alamy)(Bing China)"
+    "copyright": "楚加奇国家森林的波蒂奇湖，阿拉斯加州 (© Ron Niebrugge/Alamy)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "楚加奇国家森林"
   },
   {
     "dateString": "20160903",
     "date": 1472860800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MoscowSkyline_ZH-CN10266976296_1366x768.jpg",
     "name": "MoscowSkyline_ZH-CN10266976296",
-    "copyright": "莫斯科国际商务中心，俄罗斯 (© Nikolay Rykov/Getty Images)(Bing China)"
+    "copyright": "莫斯科国际商务中心，俄罗斯 (© Nikolay Rykov/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "俄罗斯",
+    "City": "莫斯科"
   },
   {
     "dateString": "20160902",
     "date": 1472774400000,
     "url": "http://cdn.nanxiongnandi.com/bing/SnowdoniaAlgae_ZH-CN15321911268_1366x768.jpg",
     "name": "SnowdoniaAlgae_ZH-CN15321911268",
-    "copyright": "斯诺多尼亚国家公园的Afon Ogwen河，英国威尔士 (© Graham Eaton/Minden Pictures)(Bing China)"
+    "copyright": "斯诺多尼亚国家公园的Afon Ogwen河，英国威尔士 (© Graham Eaton/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "斯诺多尼亚国家公园"
   },
   {
     "dateString": "20160901",
     "date": 1472688000000,
     "url": "http://cdn.nanxiongnandi.com/bing/SalteeGannets_ZH-CN12304087974_1366x768.jpg",
     "name": "SalteeGannets_ZH-CN12304087974",
-    "copyright": "萨尔蒂群岛上的憨鲣鸟，爱尔兰 (© Bart Breet/Minden Pictures)(Bing China)"
+    "copyright": "萨尔蒂群岛上的憨鲣鸟，爱尔兰 (© Bart Breet/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "爱尔兰",
+    "City": "萨尔蒂群岛"
   }
 ]

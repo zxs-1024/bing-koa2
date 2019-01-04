@@ -4,209 +4,299 @@
     "date": 1493510400000,
     "url": "http://cdn.nanxiongnandi.com/bing/SouthMoravian_ZH-CN13384331455_1366x768.jpg",
     "name": "SouthMoravian_ZH-CN13384331455",
-    "copyright": "基约夫附近的南摩拉维亚风景，捷克共和国  (© Tomas Vocelka/500px)(Bing China)"
+    "copyright": "基约夫附近的南摩拉维亚风景，捷克共和国  (© Tomas Vocelka/500px)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "捷克",
+    "City": "基约夫"
   },
   {
     "dateString": "20170429",
     "date": 1493424000000,
     "url": "http://cdn.nanxiongnandi.com/bing/SoundSuits_ZH-CN11561095548_1366x768.jpg",
     "name": "SoundSuits_ZH-CN11561095548",
-    "copyright": "2016年于悉尼火车制造厂展出的艺术家尼克·凯夫的系列作品“Soundsuits”，澳大利亚 (© Don Arnold/WireImage/Getty Images)(Bing China)"
+    "copyright": "2016年于悉尼火车制造厂展出的艺术家尼克·凯夫的系列作品“Soundsuits”，澳大利亚 (© Don Arnold/WireImage/Getty Images)(Bing China)",
+    "Continent": "大洋洲",
+    "Country": "澳大利亚",
+    "City": "悉尼"
   },
   {
     "dateString": "20170428",
     "date": 1493337600000,
     "url": "http://cdn.nanxiongnandi.com/bing/SproutVideo_ZH-CN11890393462_1366x768.jpg",
     "name": "SproutVideo_ZH-CN11890393462",
-    "copyright": "一棵刚萌芽的橡树苗 (© plusphoto/Getty Images)(Bing China)"
+    "copyright": "一棵刚萌芽的橡树苗 (© plusphoto/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "牛津"
   },
   {
     "dateString": "20170427",
     "date": 1493251200000,
     "url": "http://cdn.nanxiongnandi.com/bing/SaronicGulf_ZH-CN8379891695_1366x768.jpg",
     "name": "SaronicGulf_ZH-CN8379891695",
-    "copyright": "萨罗尼克湾上方的云隙光，希腊 (© Stian Rekdal/Nimia)(Bing China)"
+    "copyright": "萨罗尼克湾上方的云隙光，希腊 (© Stian Rekdal/Nimia)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "希腊",
+    "City": "萨罗尼克湾"
   },
   {
     "dateString": "20170426",
     "date": 1493164800000,
     "url": "http://cdn.nanxiongnandi.com/bing/CivitadiBagnoregio_ZH-CN12942138675_1366x768.jpg",
     "name": "CivitadiBagnoregio_ZH-CN12942138675",
-    "copyright": "白露里治奥古城，意大利 (© Westend61/SuperStock)(Bing China)"
+    "copyright": "白露里治奥古城，意大利 (© Westend61/SuperStock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "白露里治奥古城"
   },
   {
     "dateString": "20170425",
     "date": 1493078400000,
     "url": "http://cdn.nanxiongnandi.com/bing/AfricaWeaverbirds_ZH-CN9479498858_1366x768.jpg",
     "name": "AfricaWeaverbirds_ZH-CN9479498858",
-    "copyright": "伊丽莎白女王国家公园内的织巢鸟，乌干达 (© Joel Sartore/Getty Images)(Bing China)"
+    "copyright": "伊丽莎白女王国家公园内的织巢鸟，乌干达 (© Joel Sartore/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "乌干达",
+    "City": "伊丽莎白女王国家公园"
   },
   {
     "dateString": "20170424",
     "date": 1492992000000,
     "url": "http://cdn.nanxiongnandi.com/bing/AlbertaTeepee_ZH-CN11572775476_1366x768.jpg",
     "name": "AlbertaTeepee_ZH-CN11572775476",
-    "copyright": "一个圆锥形帐篷，加拿大艾伯塔省南部 (© ImagineGolf/Getty Images)(Bing China)"
+    "copyright": "一个圆锥形帐篷，加拿大艾伯塔省南部 (© ImagineGolf/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20170423",
     "date": 1492905600000,
     "url": "http://cdn.nanxiongnandi.com/bing/MirrorBeach_ZH-CN12835554220_1366x768.jpg",
     "name": "MirrorBeach_ZH-CN12835554220",
-    "copyright": "特兰科苏附近的镜面海滩，巴西巴伊亚州 (© dri5821/Moment Open/Getty Images)(Bing China)"
+    "copyright": "特兰科苏附近的镜面海滩，巴西巴伊亚州 (© dri5821/Moment Open/Getty Images)(Bing China)",
+    "Continent": "南美洲",
+    "Country": "巴西",
+    "City": "特兰科苏"
   },
   {
     "dateString": "20170422",
     "date": 1492819200000,
     "url": "http://cdn.nanxiongnandi.com/bing/ZoomOut_ZH-CN4471982075_1366x768.jpg",
     "name": "ZoomOut_ZH-CN4471982075",
-    "copyright": "从太空中拍摄到的地球 (© NOAA)(Bing China)"
+    "copyright": "从太空中拍摄到的地球 (© NOAA)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20170421",
     "date": 1492732800000,
     "url": "http://cdn.nanxiongnandi.com/bing/SolarFarm_ZH-CN4853771923_1366x768.jpg",
     "name": "SolarFarm_ZH-CN4853771923",
-    "copyright": "托诺帕附近的新月沙丘太阳能项目，美国内华达州 (© Jassen Todorov/Solent News/REX/Shutterstock)(Bing China)"
+    "copyright": "托诺帕附近的新月沙丘太阳能项目，美国内华达州 (© Jassen Todorov/Solent News/REX/Shutterstock)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "托诺帕"
   },
   {
     "dateString": "20170420",
     "date": 1492646400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Farmers_ZH-CN10322126112_1366x768.jpg",
     "name": "Farmers_ZH-CN10322126112",
-    "copyright": "【今日谷雨】插秧的妇女，中国云南省大理市 (© Ingo Oeland/Alamy)(Bing China)"
+    "copyright": "【今日谷雨】插秧的妇女，中国云南省大理市 (© Ingo Oeland/Alamy)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20170419",
     "date": 1492560000000,
     "url": "http://cdn.nanxiongnandi.com/bing/WallaceHut_ZH-CN12470084939_1366x768.jpg",
     "name": "WallaceHut_ZH-CN12470084939",
-    "copyright": "阿尔卑斯国家公园内的华莱士小屋和雪胶树，澳大利亚维多利亚州 (© Ingo Oeland/Alamy)(Bing China)"
+    "copyright": "阿尔卑斯国家公园内的华莱士小屋和雪胶树，澳大利亚维多利亚州 (© Ingo Oeland/Alamy)(Bing China)",
+    "Continent": "大洋洲",
+    "Country": "澳大利亚",
+    "City": "维多利亚阿尔卑斯国家公园 "
   },
   {
     "dateString": "20170418",
     "date": 1492473600000,
     "url": "http://cdn.nanxiongnandi.com/bing/GlacierBay_ZH-CN14440689690_1366x768.jpg",
     "name": "GlacierBay_ZH-CN14440689690",
-    "copyright": "美国冰川湾国家公园内的兰普卢冰川 (© Michael Melford/Getty Images)(Bing China)"
+    "copyright": "美国冰川湾国家公园内的兰普卢冰川 (© Michael Melford/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "冰川湾国家公园"
   },
   {
     "dateString": "20170417",
     "date": 1492387200000,
     "url": "http://cdn.nanxiongnandi.com/bing/EuropeanRabbitGreeting_ZH-CN10625718769_1366x768.jpg",
     "name": "EuropeanRabbitGreeting_ZH-CN10625718769",
-    "copyright": "一对寒暄中的欧洲灰兔，法国 (© Remy Courseaux/Biosphoto/Minden Pictures)(Bing China)"
+    "copyright": "一对寒暄中的欧洲灰兔，法国 (© Remy Courseaux/Biosphoto/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20170416",
     "date": 1492300800000,
     "url": "http://cdn.nanxiongnandi.com/bing/GroundNest_ZH-CN8953105132_1366x768.jpg",
     "name": "GroundNest_ZH-CN8953105132",
-    "copyright": "北极国家野生动物保护区内地面上的巢穴，美国阿拉斯加州 (© Mint Images/Offset)(Bing China)"
+    "copyright": "北极国家野生动物保护区内地面上的巢穴，美国阿拉斯加州 (© Mint Images/Offset)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "北极国家野生动物保护区"
   },
   {
     "dateString": "20170415",
     "date": 1492214400000,
     "url": "http://cdn.nanxiongnandi.com/bing/GrayWolf_ZH-CN9733727662_1366x768.jpg",
     "name": "GrayWolf_ZH-CN9733727662",
-    "copyright": "黄石国家公园内的一只灰狼，美国怀俄明州 (© Meril Darees & Manon Moulis/Biosphoto/Minden Pictures)(Bing China)"
+    "copyright": "黄石国家公园内的一只灰狼，美国怀俄明州 (© Meril Darees & Manon Moulis/Biosphoto/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "黄石国家公园"
   },
   {
     "dateString": "20170414",
     "date": 1492128000000,
     "url": "http://cdn.nanxiongnandi.com/bing/TitanicBelfast_ZH-CN7528306628_1366x768.jpg",
     "name": "TitanicBelfast_ZH-CN7528306628",
-    "copyright": "贝尔法斯特的泰坦尼克博物馆，爱尔兰 (© Allan Baxter/Gallery Stock)(Bing China)"
+    "copyright": "贝尔法斯特的泰坦尼克博物馆，爱尔兰 (© Allan Baxter/Gallery Stock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "爱尔兰",
+    "City": "贝尔法斯特"
   },
   {
     "dateString": "20170413",
     "date": 1492041600000,
     "url": "http://cdn.nanxiongnandi.com/bing/MVAU_ZH-CN9430011383_1366x768.jpg",
     "name": "MVAU_ZH-CN9430011383",
-    "copyright": "亚利桑那州和犹他州的纪念碑山谷 (© Ronnybas/Shutterstock)(Bing China)"
+    "copyright": "亚利桑那州和犹他州的纪念碑山谷 (© Ronnybas/Shutterstock)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "纪念碑山谷"
   },
   {
     "dateString": "20170412",
     "date": 1491955200000,
     "url": "http://cdn.nanxiongnandi.com/bing/SpacewalkSelfie_ZH-CN10118363891_1366x768.jpg",
     "name": "SpacewalkSelfie_ZH-CN10118363891",
-    "copyright": "宇航员Terry Virts的太空自拍照 (© NASA)(Bing China)"
+    "copyright": "宇航员Terry Virts的太空自拍照 (© NASA)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20170411",
     "date": 1491868800000,
     "url": "http://cdn.nanxiongnandi.com/bing/WindmillLighthouse_ZH-CN12870536851_1366x768.jpg",
     "name": "WindmillLighthouse_ZH-CN12870536851",
-    "copyright": "Świnoujście上的Stawa Młyny灯塔，波兰 (© Maciej Bledowski/Alamy)(Bing China)"
+    "copyright": "Świnoujście上的Stawa Młyny灯塔，波兰 (© Maciej Bledowski/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "波兰",
+    "City": "希维诺乌伊希切"
   },
   {
     "dateString": "20170410",
     "date": 1491782400000,
     "url": "http://cdn.nanxiongnandi.com/bing/ArcticFoxSibs_ZH-CN7417451993_1366x768.jpg",
     "name": "ArcticFoxSibs_ZH-CN7417451993",
-    "copyright": "弗兰格尔岛上的北极狐，俄罗斯 (© Owen Newman/Getty Images)(Bing China)"
+    "copyright": "弗兰格尔岛上的北极狐，俄罗斯 (© Owen Newman/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "俄罗斯",
+    "City": "弗兰格尔岛"
   },
   {
     "dateString": "20170409",
     "date": 1491696000000,
     "url": "http://cdn.nanxiongnandi.com/bing/TulipFestival_ZH-CN8467334837_1366x768.jpg",
     "name": "TulipFestival_ZH-CN8467334837",
-    "copyright": "弗农山上绽放的郁金香，华盛顿 (© Pete Saloutos/plainpicture)(Bing China)"
+    "copyright": "弗农山上绽放的郁金香，华盛顿 (© Pete Saloutos/plainpicture)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "华盛顿"
   },
   {
     "dateString": "20170408",
     "date": 1491609600000,
     "url": "http://cdn.nanxiongnandi.com/bing/KalsoyIsland_ZH-CN11586790825_1366x768.jpg",
     "name": "KalsoyIsland_ZH-CN11586790825",
-    "copyright": "卡尔斯岛上的Kallur灯塔，法罗群岛 (© Janne Kahila/500px)(Bing China)"
+    "copyright": "卡尔斯岛上的Kallur灯塔，法罗群岛 (© Janne Kahila/500px)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "丹麦",
+    "City": "卡尔斯岛"
   },
   {
     "dateString": "20170407",
     "date": 1491523200000,
     "url": "http://cdn.nanxiongnandi.com/bing/PhrayaNakhonCave_ZH-CN10743752151_1366x768.jpg",
     "name": "PhrayaNakhonCave_ZH-CN10743752151",
-    "copyright": "泰国帕亚那空山洞的 Kuha Karuhas pavilion (© Bule Sky Studio/Shutterstock)(Bing China)"
+    "copyright": "泰国帕亚那空山洞的 Kuha Karuhas pavilion (© Bule Sky Studio/Shutterstock)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "泰国",
+    "City": "三百峰国家公园"
   },
   {
     "dateString": "20170406",
     "date": 1491436800000,
     "url": "http://cdn.nanxiongnandi.com/bing/FreshSalt_ZH-CN12818759319_1366x768.jpg",
     "name": "FreshSalt_ZH-CN12818759319",
-    "copyright": "淡水和盐水在埃斯塔蒂特附近的三河河口交汇，西班牙 (© Yann Arthus-Bertrand/Getty Images)(Bing China)"
+    "copyright": "淡水和盐水在埃斯塔蒂特附近的三河河口交汇，西班牙 (© Yann Arthus-Bertrand/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "西班牙",
+    "City": "埃斯塔蒂特"
   },
   {
     "dateString": "20170405",
     "date": 1491350400000,
     "url": "http://cdn.nanxiongnandi.com/bing/JulianAlps_ZH-CN11764181030_1366x768.jpg",
     "name": "JulianAlps_ZH-CN11764181030",
-    "copyright": "在斯洛文尼亚侧面的朱利安阿尔卑斯山 (© Nino Marcutti/Alamy)(Bing China)"
+    "copyright": "在斯洛文尼亚侧面的朱利安阿尔卑斯山 (© Nino Marcutti/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "斯洛文尼亚",
+    "City": "朱利安阿尔卑斯山"
   },
   {
     "dateString": "20170404",
     "date": 1491264000000,
     "url": "http://cdn.nanxiongnandi.com/bing/QingMingHuangShan_ZH-CN12993895964_1366x768.jpg",
     "name": "QingMingHuangShan_ZH-CN12993895964",
-    "copyright": "黄山，中国安徽省 (© BJI/Blue Jean Images/Getty Images)(Bing China)"
+    "copyright": "黄山，中国安徽省 (© BJI/Blue Jean Images/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "中国",
+    "City": "黄山市"
   },
   {
     "dateString": "20170403",
     "date": 1491177600000,
     "url": "http://cdn.nanxiongnandi.com/bing/DivingGondola_ZH-CN12331702472_1366x768.jpg",
     "name": "DivingGondola_ZH-CN12331702472",
-    "copyright": "德国塞林码头的潜水吊船 (© Huber/Sime/eStock Photo)(Bing China)"
+    "copyright": "德国塞林码头的潜水吊船 (© Huber/Sime/eStock Photo)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "塞林码头"
   },
   {
     "dateString": "20170402",
     "date": 1491091200000,
     "url": "http://cdn.nanxiongnandi.com/bing/LavaTubeIce_ZH-CN12266785340_1366x768.jpg",
     "name": "LavaTubeIce_ZH-CN12266785340",
-    "copyright": "熔岩床国家纪念碑中熔岩管里的冰，加利福尼亚州 (© Floris van Breugel/Minden Pictures)(Bing China)"
+    "copyright": "熔岩床国家纪念碑中熔岩管里的冰，加利福尼亚州 (© Floris van Breugel/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "熔岩床国家纪念碑"
   },
   {
     "dateString": "20170401",
     "date": 1491004800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MeerkatAmuck_ZH-CN5734433814_1366x768.jpg",
     "name": "MeerkatAmuck_ZH-CN5734433814",
-    "copyright": "“森林”中的一只猫鼬 (© pzAxe/Shutterstock)(Bing China)"
+    "copyright": "“森林”中的一只猫鼬 (© pzAxe/Shutterstock)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   }
 ]

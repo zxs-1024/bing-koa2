@@ -4,216 +4,309 @@
     "date": 1527724800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MooseLakeGrass_ZH-CN12424437234_1366x768.jpg",
     "name": "MooseLakeGrass_ZH-CN12424437234",
-    "copyright": "湖边的草地，美国明尼苏达州 (© Jim Brandenburg/Minden Pictures)(Bing China)"
+    "copyright": "湖边的草地，美国明尼苏达州 (© Jim Brandenburg/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180530",
     "date": 1527638400000,
     "url": "http://cdn.nanxiongnandi.com/bing/AerialPantanal_ZH-CN7580811600_1366x768.jpg",
     "name": "AerialPantanal_ZH-CN7580811600",
-    "copyright": "潘塔纳尔湿地，巴西 (© Lucas Leuzinger/Shutterstock)(Bing China)"
+    "copyright": "潘塔纳尔湿地，巴西 (© Lucas Leuzinger/Shutterstock)(Bing China)",
+    "Continent": "南美洲",
+    "Country": "巴西",
+    "City": "潘塔纳尔湿地"
   },
   {
     "dateString": "20180529",
     "date": 1527552000000,
     "url": "http://cdn.nanxiongnandi.com/bing/KhumbuTents_ZH-CN4978109685_1366x768.jpg",
     "name": "KhumbuTents_ZH-CN4978109685",
-    "copyright": "珠穆朗玛峰南基地营，尼泊尔 (© David Noyes/Danita Delimont)(Bing China)"
+    "copyright": "珠穆朗玛峰南基地营，尼泊尔 (© David Noyes/Danita Delimont)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "尼泊尔",
+    "City": "珠穆朗玛峰"
   },
   {
     "dateString": "20180528",
     "date": 1527465600000,
     "url": "http://cdn.nanxiongnandi.com/bing/AsiaticElephant_ZH-CN12232084520_1366x768.jpg",
     "name": "AsiaticElephant_ZH-CN12232084520",
-    "copyright": "吉姆·科比特国家公园里的亚洲象，印度 (© Yashpal Rathore/Minden Pictures)(Bing China)"
+    "copyright": "吉姆·科比特国家公园里的亚洲象，印度 (© Yashpal Rathore/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "印度",
+    "City": "吉姆科比特国家公园"
   },
   {
     "dateString": "20180527",
     "date": 1527379200000,
     "url": "http://cdn.nanxiongnandi.com/bing/TSSSF_ZH-CN12002715124_1366x768.jpg",
     "name": "TSSSF_ZH-CN12002715124",
-    "copyright": "金门大桥，美国旧金山 (© RICOWde/Getty Images)(Bing China)"
+    "copyright": "金门大桥，美国旧金山 (© RICOWde/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "旧金山"
   },
   {
     "dateString": "20180526",
     "date": 1527292800000,
     "url": "http://cdn.nanxiongnandi.com/bing/SallyRideEarthKAM_ZH-CN12897817240_1366x768.jpg",
     "name": "SallyRideEarthKAM_ZH-CN12897817240",
-    "copyright": "位于国际空间站的Sally Ride EarthKAM由中学生编写程序后拍摄了撒哈拉沙漠的部分图像，非洲 (© NASA)(Bing China)"
+    "copyright": "位于国际空间站的Sally Ride EarthKAM由中学生编写程序后拍摄了撒哈拉沙漠的部分图像，非洲 (© NASA)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180525",
     "date": 1527206400000,
     "url": "http://cdn.nanxiongnandi.com/bing/WineDay_ZH-CN9852912150_1366x768.jpg",
     "name": "WineDay_ZH-CN9852912150",
-    "copyright": "皮利附近的葡萄庄园，瑞士沃州 (© Gallery Stock)(Bing China)"
+    "copyright": "皮利附近的葡萄庄园，瑞士沃州 (© Gallery Stock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "瑞士",
+    "City": "皮利"
   },
   {
     "dateString": "20180524",
     "date": 1527120000000,
     "url": "http://cdn.nanxiongnandi.com/bing/BklynBrdge_ZH-CN13871214699_1366x768.jpg",
     "name": "BklynBrdge_ZH-CN13871214699",
-    "copyright": "1883年在建设中的布鲁克林大桥，美国纽约 (© World History Archive/Alamy)(Bing China)"
+    "copyright": "1883年在建设中的布鲁克林大桥，美国纽约 (© World History Archive/Alamy)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "纽约"
   },
   {
     "dateString": "20180523",
     "date": 1527033600000,
     "url": "http://cdn.nanxiongnandi.com/bing/TurtleTears_ZH-CN7370985713_1366x768.jpg",
     "name": "TurtleTears_ZH-CN7370985713",
-    "copyright": "亚苏尼国家公园里的黄头侧颈龟，厄瓜多尔 (© Pete Oxford/Minden Pictures)(Bing China)"
+    "copyright": "亚苏尼国家公园里的黄头侧颈龟，厄瓜多尔 (© Pete Oxford/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "厄瓜多尔",
+    "City": "亚苏尼国家公园"
   },
   {
     "dateString": "20180522",
     "date": 1526947200000,
     "url": "http://cdn.nanxiongnandi.com/bing/StormyCrater_ZH-CN7380963684_1366x768.jpg",
     "name": "StormyCrater_ZH-CN7380963684",
-    "copyright": "火山口湖国家公园上方的乌云，美国俄勒冈州 (© Joseph Giacalone/SuperStock)(Bing China)"
+    "copyright": "火山口湖国家公园上方的乌云，美国俄勒冈州 (© Joseph Giacalone/SuperStock)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "火山口湖国家公园"
   },
   {
     "dateString": "20180521",
     "date": 1526860800000,
     "url": "http://cdn.nanxiongnandi.com/bing/NamibFace_ZH-CN6782882876_1366x768.jpg",
     "name": "NamibFace_ZH-CN6782882876",
-    "copyright": "纳米布沙漠，纳米比亚 (© Valerio Leone/Solent News/REX/Shutterstock)(Bing China)"
+    "copyright": "纳米布沙漠，纳米比亚 (© Valerio Leone/Solent News/REX/Shutterstock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "纳米比亚",
+    "City": "纳米布沙漠"
   },
   {
     "dateString": "20180520",
     "date": 1526774400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Love_ZH-CN11474763511_1366x768.jpg",
     "name": "Love_ZH-CN11474763511",
-    "copyright": "【520告白日】湖中深情相对的两只水雉，中国九江市（© Jie Zhao/Getty News）(Bing China)"
+    "copyright": "【520告白日】湖中深情相对的两只水雉，中国九江市（© Jie Zhao/Getty News）(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180519",
     "date": 1526688000000,
     "url": "http://cdn.nanxiongnandi.com/bing/SpringtimeinGiverny_ZH-CN8223989854_1366x768.jpg",
     "name": "SpringtimeinGiverny_ZH-CN8223989854",
-    "copyright": "吉维尼小镇莫奈花园的春天，法国 (© Danita Delimont/Getty Images)(Bing China)"
+    "copyright": "吉维尼小镇莫奈花园的春天，法国 (© Danita Delimont/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "吉维尼"
   },
   {
     "dateString": "20180518",
     "date": 1526601600000,
     "url": "http://cdn.nanxiongnandi.com/bing/FalcoPeregrinus_ZH-CN12522703608_1366x768.jpg",
     "name": "FalcoPeregrinus_ZH-CN12522703608",
-    "copyright": "在栏杆上行走的游隼，美国芝加哥 (© Luke Massey/Minden Pictures)(Bing China)"
+    "copyright": "在栏杆上行走的游隼，美国芝加哥 (© Luke Massey/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "芝加哥"
   },
   {
     "dateString": "20180517",
     "date": 1526515200000,
     "url": "http://cdn.nanxiongnandi.com/bing/FishingWarehouses_ZH-CN12358243818_1366x768.jpg",
     "name": "FishingWarehouses_ZH-CN12358243818",
-    "copyright": "历史悠久的捕鱼仓库，挪威特隆赫姆 (© Oscar Dominguez/Tandem Stills + Motion)(Bing China)"
+    "copyright": "历史悠久的捕鱼仓库，挪威特隆赫姆 (© Oscar Dominguez/Tandem Stills + Motion)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "挪威",
+    "City": "特隆赫姆"
   },
   {
     "dateString": "20180516",
     "date": 1526428800000,
     "url": "http://cdn.nanxiongnandi.com/bing/OakTreeMaize_ZH-CN10523296117_1366x768.jpg",
     "name": "OakTreeMaize_ZH-CN10523296117",
-    "copyright": "蒙茅斯郡田地上的英国橡树，英国威尔士 (© Phil Savoie/Minden Pictures)(Bing China)"
+    "copyright": "蒙茅斯郡田地上的英国橡树，英国威尔士 (© Phil Savoie/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "蒙茅斯郡"
   },
   {
     "dateString": "20180515",
     "date": 1526342400000,
     "url": "http://cdn.nanxiongnandi.com/bing/BushHyrax_ZH-CN9145408965_1366x768.jpg",
     "name": "BushHyrax_ZH-CN9145408965",
-    "copyright": "马拉北部保护区的黄斑岩蹄兔，肯尼亚 (© Jonathan & Angela Scott/Aurora Photos)(Bing China)"
+    "copyright": "马拉北部保护区的黄斑岩蹄兔，肯尼亚 (© Jonathan & Angela Scott/Aurora Photos)(Bing China)",
+    "Continent": "非洲",
+    "Country": "肯尼亚",
+    "City": "马拉北部保护区"
   },
   {
     "dateString": "20180514",
     "date": 1526256000000,
     "url": "http://cdn.nanxiongnandi.com/bing/DolomitesBikeRace_ZH-CN10922620742_1366x768.jpg",
     "name": "DolomitesBikeRace_ZH-CN10922620742",
-    "copyright": "多洛米蒂自行车马拉松比赛，意大利 (© Aurora Photos/Alamy)(Bing China)"
+    "copyright": "多洛米蒂自行车马拉松比赛，意大利 (© Aurora Photos/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "巴迪亚"
   },
   {
     "dateString": "20180513",
     "date": 1526169600000,
     "url": "http://cdn.nanxiongnandi.com/bing/ManateeMom_ZH-CN9943350192_1366x768.jpg",
     "name": "ManateeMom_ZH-CN9943350192",
-    "copyright": "三姐妹泉中的西印度海牛妈妈和它的宝宝，美国佛罗里达州 (© James R.D. Scott/Getty Images)(Bing China)"
+    "copyright": "三姐妹泉中的西印度海牛妈妈和它的宝宝，美国佛罗里达州 (© James R.D. Scott/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "克里斯特尔里弗"
   },
   {
     "dateString": "20180512",
     "date": 1526083200000,
     "url": "http://cdn.nanxiongnandi.com/bing/MontezumaSnowGeese_ZH-CN9467663976_1366x768.jpg",
     "name": "MontezumaSnowGeese_ZH-CN9467663976",
-    "copyright": "蒙特苏马国家野生动物保护区里的雪雁，美国纽约州 (© Gerrit Vyn/Minden Pictures)(Bing China)"
+    "copyright": "蒙特苏马国家野生动物保护区里的雪雁，美国纽约州 (© Gerrit Vyn/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "蒙特苏马国家野生动物保护区"
   },
   {
     "dateString": "20180511",
     "date": 1525996800000,
     "url": "http://cdn.nanxiongnandi.com/bing/HollowRock_ZH-CN11829527473_1366x768.jpg",
     "name": "HollowRock_ZH-CN11829527473",
-    "copyright": "苏必利尔湖的北岸，美国明尼苏达州 (© Matt Anderson Photography/Getty Images)(Bing China)"
+    "copyright": "苏必利尔湖的北岸，美国明尼苏达州 (© Matt Anderson Photography/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "苏必利尔湖"
   },
   {
     "dateString": "20180510",
     "date": 1525910400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Kolonihavehus_ZH-CN6388656996_1366x768.jpg",
     "name": "Kolonihavehus_ZH-CN6388656996",
-    "copyright": "布鲁克林大桥公园展出的汤姆·弗鲁因的‘Kolonihavehus, 2010'作品，纽约布鲁克林区 (© Daniel Haug/Getty Images)(Bing China)"
+    "copyright": "布鲁克林大桥公园展出的汤姆·弗鲁因的‘Kolonihavehus, 2010'作品，纽约布鲁克林区 (© Daniel Haug/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "纽约"
   },
   {
     "dateString": "20180509",
     "date": 1525824000000,
     "url": "http://cdn.nanxiongnandi.com/bing/LongtailedWidowbird_ZH-CN7843068065_1366x768.jpg",
     "name": "LongtailedWidowbird_ZH-CN7843068065",
-    "copyright": "利特弗雷自然保护区内的雄性长尾巧织雀，南非 (© Richard Du Toit/Getty Images)(Bing China)"
+    "copyright": "利特弗雷自然保护区内的雄性长尾巧织雀，南非 (© Richard Du Toit/Getty Images)(Bing China)",
+    "Continent": "非洲",
+    "Country": "南非",
+    "City": "利特弗雷自然保护区"
   },
   {
     "dateString": "20180508",
     "date": 1525737600000,
     "url": "http://cdn.nanxiongnandi.com/bing/LulworthCoveDorset_ZH-CN6277179800_1366x768.jpg",
     "name": "LulworthCoveDorset_ZH-CN6277179800",
-    "copyright": "侏罗纪海岸的拉尔沃思湾，英格兰多塞特郡 (© Brian Jannsen/Danita Delimont)(Bing China)"
+    "copyright": "侏罗纪海岸的拉尔沃思湾，英格兰多塞特郡 (© Brian Jannsen/Danita Delimont)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "拉尔沃思湾"
   },
   {
     "dateString": "20180507",
     "date": 1525651200000,
     "url": "http://cdn.nanxiongnandi.com/bing/Knuthojdsmossen_ZH-CN11774377222_1366x768.jpg",
     "name": "Knuthojdsmossen_ZH-CN11774377222",
-    "copyright": "西曼兰省的一片湿地，瑞典 (© Hans Strand/Getty Images)(Bing China)"
+    "copyright": "西曼兰省的一片湿地，瑞典 (© Hans Strand/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "瑞典",
+    "City": "西曼兰省"
   },
   {
     "dateString": "20180506",
     "date": 1525564800000,
     "url": "http://cdn.nanxiongnandi.com/bing/NOTricentennial_ZH-CN8971649459_1366x768.jpg",
     "name": "NOTricentennial_ZH-CN8971649459",
-    "copyright": "新奥尔良法国区的杰克逊广场，路易斯安那州 (© Edwin Remsberg/Getty Images)(Bing China)"
+    "copyright": "新奥尔良法国区的杰克逊广场，路易斯安那州 (© Edwin Remsberg/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "新奥尔良"
   },
   {
     "dateString": "20180505",
     "date": 1525478400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Mariachis_ZH-CN12661065263_1366x768.jpg",
     "name": "Mariachis_ZH-CN12661065263",
-    "copyright": "墨西哥街头乐队，墨西哥瓜纳华托州圣米格尔德阿连德市 (© Holly Wilmeth/Getty Images)(Bing China)"
+    "copyright": "墨西哥街头乐队，墨西哥瓜纳华托州圣米格尔德阿连德市 (© Holly Wilmeth/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "墨西哥",
+    "City": "圣米格尔德阿连德市"
   },
   {
     "dateString": "20180504",
     "date": 1525392000000,
     "url": "http://cdn.nanxiongnandi.com/bing/PKUCHINA_ZH-CN12651058425_1366x768.jpg",
     "name": "PKUCHINA_ZH-CN12651058425",
-    "copyright": "【北京大学120周年校庆】中国最有声望的学府之一北京大学日落时的鸟瞰图（© Dong Wenjie/Getty Images）(Bing China)"
+    "copyright": "【北京大学120周年校庆】中国最有声望的学府之一北京大学日落时的鸟瞰图（© Dong Wenjie/Getty Images）(Bing China)",
+    "Continent": "亚洲",
+    "Country": "中国",
+    "City": "北京"
   },
   {
     "dateString": "20180503",
     "date": 1525305600000,
     "url": "http://cdn.nanxiongnandi.com/bing/Nazars_ZH-CN13550755131_1366x768.jpg",
     "name": "Nazars_ZH-CN13550755131",
-    "copyright": "格雷梅国家公园里挂在树上装饰的邪眼护身符，土耳其卡帕多西亚 (© taratata/Getty Images)(Bing China)"
+    "copyright": "格雷梅国家公园里挂在树上装饰的邪眼护身符，土耳其卡帕多西亚 (© taratata/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "土耳其",
+    "City": "格雷梅国家公园"
   },
   {
     "dateString": "20180502",
     "date": 1525219200000,
     "url": "http://cdn.nanxiongnandi.com/bing/EuropeanBarracuda_ZH-CN13968323163_1366x768.jpg",
     "name": "EuropeanBarracuda_ZH-CN13968323163",
-    "copyright": "福米加什群岛沿岸环绕竹荚鱼组成的饵球的欧洲魣和蓝鱼，亚速尔群岛 (© Jordi Chias/Minden Pictures)(Bing China)"
+    "copyright": "福米加什群岛沿岸环绕竹荚鱼组成的饵球的欧洲魣和蓝鱼，亚速尔群岛 (© Jordi Chias/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "葡萄牙",
+    "City": "福米加什群岛"
   },
   {
     "dateString": "20180501",
     "date": 1525132800000,
     "url": "http://cdn.nanxiongnandi.com/bing/SONC_ZH-CN9822965309_1366x768.jpg",
     "name": "SONC_ZH-CN9822965309",
-    "copyright": "2014年威尼斯建筑双年展展出的艺术家亨氏·麦克的“天在九柱之上”作品 (© Cahir Davitt/plainpicture)(Bing China)"
+    "copyright": "2014年威尼斯建筑双年展展出的艺术家亨氏·麦克的“天在九柱之上”作品 (© Cahir Davitt/plainpicture)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "威尼斯"
   }
 ]

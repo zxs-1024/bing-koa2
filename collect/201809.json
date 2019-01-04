@@ -4,209 +4,299 @@
     "date": 1538265600000,
     "url": "http://cdn.nanxiongnandi.com/bing/TheLongWalk_ZH-CN11094733779_1366x768.jpg",
     "name": "TheLongWalk_ZH-CN11094733779",
-    "copyright": "戈尔韦港，爱尔兰戈尔韦 (© ClaudineVM/Getty Images)(Bing China)"
+    "copyright": "戈尔韦港，爱尔兰戈尔韦 (© ClaudineVM/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "爱尔兰",
+    "City": "戈尔韦"
   },
   {
     "dateString": "20180929",
     "date": 1538179200000,
     "url": "http://cdn.nanxiongnandi.com/bing/GoldBridge_ZH-CN5579326717_1366x768.jpg",
     "name": "GoldBridge_ZH-CN5579326717",
-    "copyright": "“如来大手”托起的金桥，越南岘港 (© REUTERS/Kham TPX)(Bing China)"
+    "copyright": "“如来大手”托起的金桥，越南岘港 (© REUTERS/Kham TPX)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "越南",
+    "City": "岘港"
   },
   {
     "dateString": "20180928",
     "date": 1538092800000,
     "url": "http://cdn.nanxiongnandi.com/bing/SouthernRightFlukes_ZH-CN11723769399_1366x768.jpg",
     "name": "SouthernRightFlukes_ZH-CN11723769399",
-    "copyright": "南非海岸附近的南露脊鲸 (© oversnap/E+/Getty Images)(Bing China)"
+    "copyright": "南非海岸附近的南露脊鲸 (© oversnap/E+/Getty Images)(Bing China)",
+    "Continent": "非洲",
+    "Country": "南非",
+    "City": "赫曼纽斯"
   },
   {
     "dateString": "20180927",
     "date": 1538006400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Shipyard_ZH-CN13183467490_1366x768.jpg",
     "name": "Shipyard_ZH-CN13183467490",
-    "copyright": "夜色下停靠在开普敦港口的轮船，南非开普敦 (© Zero Creatives/Science Photo Library)(Bing China)"
+    "copyright": "夜色下停靠在开普敦港口的轮船，南非开普敦 (© Zero Creatives/Science Photo Library)(Bing China)",
+    "Continent": "非洲",
+    "Country": "南非",
+    "City": "开普敦"
   },
   {
     "dateString": "20180926",
     "date": 1537920000000,
     "url": "http://cdn.nanxiongnandi.com/bing/JacobHashimoto_ZH-CN8083666733_1366x768.jpg",
     "name": "JacobHashimoto_ZH-CN8083666733",
-    "copyright": "圣科尼利厄斯教堂内的艺术装置'The Eclipse' ，美国纽约市总督岛  (© Timothy Schenck/Jacob Hashimoto Studio)(Bing China)"
+    "copyright": "圣科尼利厄斯教堂内的艺术装置'The Eclipse' ，美国纽约市总督岛  (© Timothy Schenck/Jacob Hashimoto Studio)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "纽约市"
   },
   {
     "dateString": "20180925",
     "date": 1537833600000,
     "url": "http://cdn.nanxiongnandi.com/bing/GiantSequoia_ZH-CN12159357875_1366x768.jpg",
     "name": "GiantSequoia_ZH-CN12159357875",
-    "copyright": "巨杉国家公园内的巨杉，美国加利福尼亚州 (© Yva Momatiuk and John Eastcott/Minden Pictures)(Bing China)"
+    "copyright": "巨杉国家公园内的巨杉，美国加利福尼亚州 (© Yva Momatiuk and John Eastcott/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180924",
     "date": 1537747200000,
     "url": "http://cdn.nanxiongnandi.com/bing/QinhuaiRiver_ZH-CN10131273425_1366x768.jpg",
     "name": "QinhuaiRiver_ZH-CN10131273425",
-    "copyright": "【今日中秋节】桨声灯影里的秦淮河，中国南京 (© zyxeos30/Getty Images)(Bing China)"
+    "copyright": "【今日中秋节】桨声灯影里的秦淮河，中国南京 (© zyxeos30/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180923",
     "date": 1537660800000,
     "url": "http://cdn.nanxiongnandi.com/bing/ShenandoahAutumn_ZH-CN12756614363_1366x768.jpg",
     "name": "ShenandoahAutumn_ZH-CN12756614363",
-    "copyright": "位于蓝岭山脉的雪兰多国家公园，美国弗吉尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)(Bing China)"
+    "copyright": "位于蓝岭山脉的雪兰多国家公园，美国弗吉尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180922",
     "date": 1537574400000,
     "url": "http://cdn.nanxiongnandi.com/bing/MunichTuba_ZH-CN7797561799_1366x768.jpg",
     "name": "MunichTuba_ZH-CN7797561799",
-    "copyright": "慕尼黑啤酒节期间反映在法国号喇叭上的游行的人群，德国慕尼黑 (© Joerg Koch/Getty Images)(Bing China)"
+    "copyright": "慕尼黑啤酒节期间反映在法国号喇叭上的游行的人群，德国慕尼黑 (© Joerg Koch/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180921",
     "date": 1537488000000,
     "url": "http://cdn.nanxiongnandi.com/bing/ImaginePeace_ZH-CN12572046001_1366x768.jpg",
     "name": "ImaginePeace_ZH-CN12572046001",
-    "copyright": "梦想和平塔，冰岛雷克雅未克 (© Arctic Images/Alamy)(Bing China)"
+    "copyright": "梦想和平塔，冰岛雷克雅未克 (© Arctic Images/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180920",
     "date": 1537401600000,
     "url": "http://cdn.nanxiongnandi.com/bing/BlackpoolTowerBallroom_ZH-CN8455917047_1366x768.jpg",
     "name": "BlackpoolTowerBallroom_ZH-CN8455917047",
-    "copyright": "布莱克浦塔内的舞厅，英国兰开夏郡 (© Dosfotos/Getty Images)(Bing China)"
+    "copyright": "布莱克浦塔内的舞厅，英国兰开夏郡 (© Dosfotos/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180919",
     "date": 1537315200000,
     "url": "http://cdn.nanxiongnandi.com/bing/DriftwoodPirate_ZH-CN11949090819_1366x768.jpg",
     "name": "DriftwoodPirate_ZH-CN11949090819",
-    "copyright": "新布莱顿海滩的浮木海盗船，英国沃勒西 (© Phil Noble/Reuters)(Bing China)"
+    "copyright": "新布莱顿海滩的浮木海盗船，英国沃勒西 (© Phil Noble/Reuters)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180918",
     "date": 1537228800000,
     "url": "http://cdn.nanxiongnandi.com/bing/CalidrisCanutus_ZH-CN10519054459_1366x768.jpg",
     "name": "CalidrisCanutus_ZH-CN10519054459",
-    "copyright": "在设得兰群岛觅食的红腹滨鹬，苏格兰 (© Andrew Parkinson/Minden Pictures)(Bing China)"
+    "copyright": "在设得兰群岛觅食的红腹滨鹬，苏格兰 (© Andrew Parkinson/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "设得兰群岛"
   },
   {
     "dateString": "20180917",
     "date": 1537142400000,
     "url": "http://cdn.nanxiongnandi.com/bing/RedMapleQue_ZH-CN8685756305_1366x768.jpg",
     "name": "RedMapleQue_ZH-CN8685756305",
-    "copyright": "彩色池里的红色枫叶，加拿大魁北克省 (© Gilles Delisle/Jaynes Gallery/DanitaDelimont.com)(Bing China)"
+    "copyright": "彩色池里的红色枫叶，加拿大魁北克省 (© Gilles Delisle/Jaynes Gallery/DanitaDelimont.com)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "圣布鲁诺山国家公园"
   },
   {
     "dateString": "20180916",
     "date": 1537056000000,
     "url": "http://cdn.nanxiongnandi.com/bing/MonumentFountain_ZH-CN12137557720_1366x768.jpg",
     "name": "MonumentFountain_ZH-CN12137557720",
-    "copyright": "革命纪念碑，墨西哥墨西哥城 (© Reinier Snijders/Getty Images)(Bing China)"
+    "copyright": "革命纪念碑，墨西哥墨西哥城 (© Reinier Snijders/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "墨西哥",
+    "City": "墨西哥城"
   },
   {
     "dateString": "20180915",
     "date": 1536969600000,
     "url": "http://cdn.nanxiongnandi.com/bing/BlackCuillin_ZH-CN10048970076_1366x768.jpg",
     "name": "BlackCuillin_ZH-CN10048970076",
-    "copyright": "俯瞰苏格兰的斯凯岛 (© Swen_Stroop/Getty Images)(Bing China)"
+    "copyright": "俯瞰苏格兰的斯凯岛 (© Swen_Stroop/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "斯凯岛"
   },
   {
     "dateString": "20180914",
     "date": 1536883200000,
     "url": "http://cdn.nanxiongnandi.com/bing/GustavKlimt_ZH-CN9730106413_1366x768.jpg",
     "name": "GustavKlimt_ZH-CN9730106413",
-    "copyright": "光之工坊数字化艺术中心内古斯塔夫·克里姆特的展览 (© Thierry Chesnot/Getty Images)(Bing China)"
+    "copyright": "光之工坊数字化艺术中心内古斯塔夫·克里姆特的展览 (© Thierry Chesnot/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "巴黎"
   },
   {
     "dateString": "20180913",
     "date": 1536796800000,
     "url": "http://cdn.nanxiongnandi.com/bing/BurgundyVineyards_ZH-CN11711344803_1366x768.jpg",
     "name": "BurgundyVineyards_ZH-CN11711344803",
-    "copyright": "法国勃艮第的葡萄园 (© Hans Strand/plainpicture)(Bing China)"
+    "copyright": "法国勃艮第的葡萄园 (© Hans Strand/plainpicture)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180912",
     "date": 1536710400000,
     "url": "http://cdn.nanxiongnandi.com/bing/BlackBrowed_ZH-CN11903207028_1366x768.jpg",
     "name": "BlackBrowed_ZH-CN11903207028",
-    "copyright": "回到福克兰群岛的黑眉信天翁 (© Cultura RM/Alamy)(Bing China)"
+    "copyright": "回到福克兰群岛的黑眉信天翁 (© Cultura RM/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "福克兰群岛"
   },
   {
     "dateString": "20180911",
     "date": 1536624000000,
     "url": "http://cdn.nanxiongnandi.com/bing/ShinjukuKiku_ZH-CN8446848393_1366x768.jpg",
     "name": "ShinjukuKiku_ZH-CN8446848393",
-    "copyright": "管物菊，日本东京都新宿区 (© I love Photo and Apple./Getty images)(Bing China)"
+    "copyright": "管物菊，日本东京都新宿区 (© I love Photo and Apple./Getty images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "日本",
+    "City": "东京都"
   },
   {
     "dateString": "20180910",
     "date": 1536537600000,
     "url": "http://cdn.nanxiongnandi.com/bing/Honeycomb_ZH-CN7204448210_1366x768.jpg",
     "name": "Honeycomb_ZH-CN7204448210",
-    "copyright": "蜂巢 (© Heidi and Hans-Juergen Koch/Minden Pictures)(Bing China)"
+    "copyright": "蜂巢 (© Heidi and Hans-Juergen Koch/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180909",
     "date": 1536451200000,
     "url": "http://cdn.nanxiongnandi.com/bing/RoyalOntarioMuseum_ZH-CN10362892998_1366x768.jpg",
     "name": "RoyalOntarioMuseum_ZH-CN10362892998",
-    "copyright": "皇家安大略博物馆，加拿大多伦多 (© Ken Straiton/Aurora Photos)(Bing China)"
+    "copyright": "皇家安大略博物馆，加拿大多伦多 (© Ken Straiton/Aurora Photos)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "多伦多"
   },
   {
     "dateString": "20180908",
     "date": 1536364800000,
     "url": "http://cdn.nanxiongnandi.com/bing/TrinityLibrary_ZH-CN10332583093_1366x768.jpg",
     "name": "TrinityLibrary_ZH-CN10332583093",
-    "copyright": "都柏林三一学院图书馆，爱尔兰 (© Nigel Hicks/Robert Harding/Aurora Photos)(Bing China)"
+    "copyright": "都柏林三一学院图书馆，爱尔兰 (© Nigel Hicks/Robert Harding/Aurora Photos)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "爱尔兰",
+    "City": "都柏林"
   },
   {
     "dateString": "20180907",
     "date": 1536278400000,
     "url": "http://cdn.nanxiongnandi.com/bing/BrazilianPine_ZH-CN10573180887_1366x768.jpg",
     "name": "BrazilianPine_ZH-CN10573180887",
-    "copyright": "大西洋沿岸森林的巴西松 (© Ralph Clevenger/Getty Images)(Bing China)"
+    "copyright": "大西洋沿岸森林的巴西松 (© Ralph Clevenger/Getty Images)(Bing China)",
+    "Continent": "南美洲",
+    "Country": "巴西",
+    "City": "塞古鲁港"
   },
   {
     "dateString": "20180906",
     "date": 1536192000000,
     "url": "http://cdn.nanxiongnandi.com/bing/Rockhopper_ZH-CN9080431020_1366x768.jpg",
     "name": "Rockhopper_ZH-CN9080431020",
-    "copyright": "南大西洋戈夫岛上的北跳岩企鹅 (© Tui De Roy/Minden Pictures)(Bing China)"
+    "copyright": "南大西洋戈夫岛上的北跳岩企鹅 (© Tui De Roy/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "戈夫岛"
   },
   {
     "dateString": "20180905",
     "date": 1536105600000,
     "url": "http://cdn.nanxiongnandi.com/bing/SockeyeReturns_ZH-CN9894542410_1366x768.jpg",
     "name": "SockeyeReturns_ZH-CN9894542410",
-    "copyright": "亚当斯河里的红鲑鱼，加拿大不列颠哥伦比亚省 (© Yva Momatiuk and John Eastcott/Minden Pictures)(Bing China)"
+    "copyright": "亚当斯河里的红鲑鱼，加拿大不列颠哥伦比亚省 (© Yva Momatiuk and John Eastcott/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "亚当斯河"
   },
   {
     "dateString": "20180904",
     "date": 1536019200000,
     "url": "http://cdn.nanxiongnandi.com/bing/RoundBales_ZH-CN8377464305_1366x768.jpg",
     "name": "RoundBales_ZH-CN8377464305",
-    "copyright": "意大利托斯卡纳的干草垛 (© Chris Ryan/plainpicture)(Bing China)"
+    "copyright": "意大利托斯卡纳的干草垛 (© Chris Ryan/plainpicture)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "托斯卡纳"
   },
   {
     "dateString": "20180903",
     "date": 1535932800000,
     "url": "http://cdn.nanxiongnandi.com/bing/SunFlowersStorm_ZH-CN8706728441_1366x768.jpg",
     "name": "SunFlowersStorm_ZH-CN8706728441",
-    "copyright": "暴风雨下的薰衣草和向日葵花田，法国普罗旺斯 (© beboy/Shutterstock)(Bing China)"
+    "copyright": "暴风雨下的薰衣草和向日葵花田，法国普罗旺斯 (© beboy/Shutterstock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "普罗旺斯"
   },
   {
     "dateString": "20180902",
     "date": 1535846400000,
     "url": "http://cdn.nanxiongnandi.com/bing/VenetianRowing_ZH-CN6668445308_1366x768.jpg",
     "name": "VenetianRowing_ZH-CN6668445308",
-    "copyright": "威尼斯赛船节 (© Alessandro Bianchi/Reuters)(Bing China)"
+    "copyright": "威尼斯赛船节 (© Alessandro Bianchi/Reuters)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "威尼斯"
   },
   {
     "dateString": "20180901",
     "date": 1535760000000,
     "url": "http://cdn.nanxiongnandi.com/bing/HighlandDancers_ZH-CN10588013331_1366x768.jpg",
     "name": "HighlandDancers_ZH-CN10588013331",
-    "copyright": "布雷马集会上的舞者们 (© Jeff J Mitchell/Getty Images)(Bing China)"
+    "copyright": "布雷马集会上的舞者们 (© Jeff J Mitchell/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "布雷马"
   }
 ]

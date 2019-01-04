@@ -4,216 +4,309 @@
     "date": 1514678400000,
     "url": "http://cdn.nanxiongnandi.com/bing/NordketteNYE_ZH-CN12614598789_1366x768.jpg",
     "name": "NordketteNYE_ZH-CN12614598789",
-    "copyright": "新年前夕的烟花，奥地利诺德凯特山脉 (© imageBROKER/Alamy)(Bing China)"
+    "copyright": "新年前夕的烟花，奥地利诺德凯特山脉 (© imageBROKER/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "奥地利",
+    "City": "因斯布鲁克"
   },
   {
     "dateString": "20171230",
     "date": 1514592000000,
     "url": "http://cdn.nanxiongnandi.com/bing/UKThamesBarrier_ZH-CN7996034899_1366x768.jpg",
     "name": "UKThamesBarrier_ZH-CN7996034899",
-    "copyright": "泰晤士河防洪闸，英国伦敦 (© John Alexander/plainpicture)(Bing China)"
+    "copyright": "泰晤士河防洪闸，英国伦敦 (© John Alexander/plainpicture)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "伦敦"
   },
   {
     "dateString": "20171229",
     "date": 1514505600000,
     "url": "http://cdn.nanxiongnandi.com/bing/PineZion_ZH-CN13789067332_1366x768.jpg",
     "name": "PineZion_ZH-CN13789067332",
-    "copyright": "锡安国家公园的雪，美国犹他州 (© Jeff Foott/Minden Pictures)(Bing China)"
+    "copyright": "锡安国家公园的雪，美国犹他州 (© Jeff Foott/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "锡安国家公园"
   },
   {
     "dateString": "20171228",
     "date": 1514419200000,
     "url": "http://cdn.nanxiongnandi.com/bing/HawaiiGST_ZH-CN13537794612_1366x768.jpg",
     "name": "HawaiiGST_ZH-CN13537794612",
-    "copyright": "夏威夷的绿海龟 (© Monica & Michael Sweet/Aurora Photos)(Bing China)"
+    "copyright": "夏威夷的绿海龟 (© Monica & Michael Sweet/Aurora Photos)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "夏威夷"
   },
   {
     "dateString": "20171227",
     "date": 1514332800000,
     "url": "http://cdn.nanxiongnandi.com/bing/CPNYSnow_ZH-CN13335620157_1366x768.jpg",
     "name": "CPNYSnow_ZH-CN13335620157",
-    "copyright": "中央公园，美国纽约市 (© Nisian Hughes/Getty Images)(Bing China)"
+    "copyright": "中央公园，美国纽约市 (© Nisian Hughes/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "纽约市"
   },
   {
     "dateString": "20171226",
     "date": 1514246400000,
     "url": "http://cdn.nanxiongnandi.com/bing/GlisGlis_ZH-CN12580308968_1366x768.jpg",
     "name": "GlisGlis_ZH-CN12580308968",
-    "copyright": "一只熟睡中的睡鼠，法国阿尔萨斯  (© M. Watsonantheo/SuperStock)(Bing China)"
+    "copyright": "一只熟睡中的睡鼠，法国阿尔萨斯  (© M. Watsonantheo/SuperStock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "阿尔萨斯"
   },
   {
     "dateString": "20171225",
     "date": 1514160000000,
     "url": "http://cdn.nanxiongnandi.com/bing/LaplandAurora_ZH-CN13018939166_1366x768.jpg",
     "name": "LaplandAurora_ZH-CN13018939166",
-    "copyright": "芬兰的北极光 (© Jorma Luhta/Minden Pictures)(Bing China)"
+    "copyright": "芬兰的北极光 (© Jorma Luhta/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171224",
     "date": 1514073600000,
     "url": "http://cdn.nanxiongnandi.com/bing/NorthPole_ZH-CN14730815128_1366x768.jpg",
     "name": "NorthPole_ZH-CN14730815128",
-    "copyright": "北极 (© Sue Flood/Getty Images)(Bing China)"
+    "copyright": "北极 (© Sue Flood/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171223",
     "date": 1513987200000,
     "url": "http://cdn.nanxiongnandi.com/bing/SFSantaCon_ZH-CN11213292356_1366x768.jpg",
     "name": "SFSantaCon_ZH-CN11213292356",
-    "copyright": "旧金山联合广场的圣诞老人大会活动，美国加利福尼亚州 (© Mint Images/Aurora Photos)(Bing China)"
+    "copyright": "旧金山联合广场的圣诞老人大会活动，美国加利福尼亚州 (© Mint Images/Aurora Photos)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "旧金山"
   },
   {
     "dateString": "20171222",
     "date": 1513900800000,
     "url": "http://cdn.nanxiongnandi.com/bing/Wintersolstice1222_ZH-CN10807868228_1366x768.jpg",
     "name": "Wintersolstice1222_ZH-CN10807868228",
-    "copyright": "【今日冬至】湖中的天鹅，中国新疆伊犁州 (© SinoImages/Getty Images)(Bing China)"
+    "copyright": "【今日冬至】湖中的天鹅，中国新疆伊犁州 (© SinoImages/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171221",
     "date": 1513814400000,
     "url": "http://cdn.nanxiongnandi.com/bing/SolsticeSquirrel_ZH-CN6551849968_1366x768.jpg",
     "name": "SolsticeSquirrel_ZH-CN6551849968",
-    "copyright": "一只从洞中偷窥的东部灰松鼠 (© Darlyne A. Murawski/Getty Images)(Bing China)"
+    "copyright": "一只从洞中偷窥的东部灰松鼠 (© Darlyne A. Murawski/Getty Images)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171220",
     "date": 1513728000000,
     "url": "http://cdn.nanxiongnandi.com/bing/PowysCounty_ZH-CN11115693548_1366x768.jpg",
     "name": "PowysCounty_ZH-CN11115693548",
-    "copyright": "威尔士中部的波厄斯郡 (© Graham Lawrence/Aurora Photos)(Bing China)"
+    "copyright": "威尔士中部的波厄斯郡 (© Graham Lawrence/Aurora Photos)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "波厄斯郡"
   },
   {
     "dateString": "20171219",
     "date": 1513641600000,
     "url": "http://cdn.nanxiongnandi.com/bing/ReindeerLichen_ZH-CN9944307835_1366x768.jpg",
     "name": "ReindeerLichen_ZH-CN9944307835",
-    "copyright": "达特穆尔国家公园内的驯鹿地衣，英国 (© Ian Redding/Getty Images Plus)(Bing China)"
+    "copyright": "达特穆尔国家公园内的驯鹿地衣，英国 (© Ian Redding/Getty Images Plus)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "达特穆尔国家公园"
   },
   {
     "dateString": "20171218",
     "date": 1513555200000,
     "url": "http://cdn.nanxiongnandi.com/bing/Snowflake_ZH-CN7496591838_1366x768.jpg",
     "name": "Snowflake_ZH-CN7496591838",
-    "copyright": "一片雪花 (© Don Komarechka/Science Photo Library)(Bing China)"
+    "copyright": "一片雪花 (© Don Komarechka/Science Photo Library)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171217",
     "date": 1513468800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MGRBerlin_ZH-CN6734108494_1366x768.jpg",
     "name": "MGRBerlin_ZH-CN6734108494",
-    "copyright": "柏林圣诞集市的狂欢节秋千，德国 (© Hannibal Hanschke/Reuters)(Bing China)"
+    "copyright": "柏林圣诞集市的狂欢节秋千，德国 (© Hannibal Hanschke/Reuters)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "柏林"
   },
   {
     "dateString": "20171216",
     "date": 1513382400000,
     "url": "http://cdn.nanxiongnandi.com/bing/TamarackCones_ZH-CN11326400685_1366x768.jpg",
     "name": "TamarackCones_ZH-CN11326400685",
-    "copyright": "长满球果和花朵的美洲落叶松的树枝，加拿大纽芬兰 (© Bob Gibbons/Science Photo Library)(Bing China)"
+    "copyright": "长满球果和花朵的美洲落叶松的树枝，加拿大纽芬兰 (© Bob Gibbons/Science Photo Library)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "纽芬兰"
   },
   {
     "dateString": "20171215",
     "date": 1513296000000,
     "url": "http://cdn.nanxiongnandi.com/bing/SeychellesCCSS_ZH-CN9574865698_1366x768.jpg",
     "name": "SeychellesCCSS_ZH-CN9574865698",
-    "copyright": "塞舌尔群岛附近软珊瑚树中的一颗薄荷海星，塞舌尔 (© Norbert Wu/Minden Pictures)(Bing China)"
+    "copyright": "塞舌尔群岛附近软珊瑚树中的一颗薄荷海星，塞舌尔 (© Norbert Wu/Minden Pictures)(Bing China)",
+    "Continent": "非洲",
+    "Country": "塞舌尔",
+    "City": "塞舌尔群岛"
   },
   {
     "dateString": "20171214",
     "date": 1513209600000,
     "url": "http://cdn.nanxiongnandi.com/bing/PlutoNorthPole_ZH-CN12213356975_1366x768.jpg",
     "name": "PlutoNorthPole_ZH-CN12213356975",
-    "copyright": "冥王星的北极 (© J Marshall/Alamy)(Bing China)"
+    "copyright": "冥王星的北极 (© J Marshall/Alamy)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171213",
     "date": 1513123200000,
     "url": "http://cdn.nanxiongnandi.com/bing/Freudenberg_ZH-CN10942614197_1366x768.jpg",
     "name": "Freudenberg_ZH-CN10942614197",
-    "copyright": "弗罗伊登贝格镇，德国 (© Iain Masterton/age fotostock)(Bing China)"
+    "copyright": "弗罗伊登贝格镇，德国 (© Iain Masterton/age fotostock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "弗罗伊登贝格镇"
   },
   {
     "dateString": "20171212",
     "date": 1513036800000,
     "url": "http://cdn.nanxiongnandi.com/bing/Gnomes_ZH-CN14028221582_1366x768.jpg",
     "name": "Gnomes_ZH-CN14028221582",
-    "copyright": "圣诞市场上出售的地精，意大利佩尔吉内瓦尔苏加纳 (© Flavia Morlachetti/Moment/Getty Images)(Bing China)"
+    "copyright": "圣诞市场上出售的地精，意大利佩尔吉内瓦尔苏加纳 (© Flavia Morlachetti/Moment/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "佩尔吉内瓦尔苏加纳"
   },
   {
     "dateString": "20171211",
     "date": 1512950400000,
     "url": "http://cdn.nanxiongnandi.com/bing/Jangothang_ZH-CN12592369551_1366x768.jpg",
     "name": "Jangothang_ZH-CN12592369551",
-    "copyright": "卓木拉日峰上的古老宗堡，不丹 (© Alex Treadway/plainpicture)(Bing China)"
+    "copyright": "卓木拉日峰上的古老宗堡，不丹 (© Alex Treadway/plainpicture)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "不丹",
+    "City": "廷布"
   },
   {
     "dateString": "20171210",
     "date": 1512864000000,
     "url": "http://cdn.nanxiongnandi.com/bing/SiberianJay_ZH-CN8167378429_1366x768.jpg",
     "name": "SiberianJay_ZH-CN8167378429",
-    "copyright": "普托拉纳高原上的北噪鸦，俄罗斯西伯利亚 (© Sergey Gorshkov/Minden Pictures)(Bing China)"
+    "copyright": "普托拉纳高原上的北噪鸦，俄罗斯西伯利亚 (© Sergey Gorshkov/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "俄罗斯",
+    "City": "西伯利亚"
   },
   {
     "dateString": "20171209",
     "date": 1512777600000,
     "url": "http://cdn.nanxiongnandi.com/bing/FlightFest_ZH-CN9045713592_1366x768.jpg",
     "name": "FlightFest_ZH-CN9045713592",
-    "copyright": "老桥，意大利佛罗伦萨 (© Michele Castellani/Alamy)(Bing China)"
+    "copyright": "老桥，意大利佛罗伦萨 (© Michele Castellani/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "佛罗伦萨"
   },
   {
     "dateString": "20171208",
     "date": 1512691200000,
     "url": "http://cdn.nanxiongnandi.com/bing/SibeliusMonument_ZH-CN8903164725_1366x768.jpg",
     "name": "SibeliusMonument_ZH-CN8903164725",
-    "copyright": "西贝柳斯纪念碑，芬兰赫尔辛基 (© Ville Heino/500px)(Bing China)"
+    "copyright": "西贝柳斯纪念碑，芬兰赫尔辛基 (© Ville Heino/500px)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "芬兰",
+    "City": "赫尔辛基"
   },
   {
     "dateString": "20171207",
     "date": 1512604800000,
     "url": "http://cdn.nanxiongnandi.com/bing/Snow_ZH-CN11178898651_1366x768.jpg",
     "name": "Snow_ZH-CN11178898651",
-    "copyright": "【今日大雪】暴风雪中两只在树干上攀爬的大熊猫，中国四川 (© Juan Carlos Munoz/NPL/Minden Pictures)(Bing China)"
+    "copyright": "【今日大雪】暴风雪中两只在树干上攀爬的大熊猫，中国四川 (© Juan Carlos Munoz/NPL/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171206",
     "date": 1512518400000,
     "url": "http://cdn.nanxiongnandi.com/bing/MatusevichGlacier_ZH-CN13151914775_1366x768.jpg",
     "name": "MatusevichGlacier_ZH-CN13151914775",
-    "copyright": "南极洲的马图谢维奇冰川 (© NASA)(Bing China)"
+    "copyright": "南极洲的马图谢维奇冰川 (© NASA)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171205",
     "date": 1512432000000,
     "url": "http://cdn.nanxiongnandi.com/bing/AberystwythSeafront_ZH-CN9542789062_1366x768.jpg",
     "name": "AberystwythSeafront_ZH-CN9542789062",
-    "copyright": "阿伯里斯特威斯的海滨长廊，英国威尔士锡尔迪金 (© Riccardo Spila/SIME/eStock Photo)(Bing China)"
+    "copyright": "阿伯里斯特威斯的海滨长廊，英国威尔士锡尔迪金 (© Riccardo Spila/SIME/eStock Photo)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "阿伯里斯特威斯"
   },
   {
     "dateString": "20171204",
     "date": 1512345600000,
     "url": "http://cdn.nanxiongnandi.com/bing/Motherboard_ZH-CN12819254349_1366x768.jpg",
     "name": "Motherboard_ZH-CN12819254349",
-    "copyright": "计算机主板细节图 (© Antonio Romero/Science Photo Library)(Bing China)"
+    "copyright": "计算机主板细节图 (© Antonio Romero/Science Photo Library)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20171203",
     "date": 1512259200000,
     "url": "http://cdn.nanxiongnandi.com/bing/SchwetzingenAerial_ZH-CN11628382780_1366x768.jpg",
     "name": "SchwetzingenAerial_ZH-CN11628382780",
-    "copyright": "施韦青根城堡花园鸟瞰图，德国巴登-符腾堡州 (© aerial-photos.com/Alamy)(Bing China)"
+    "copyright": "施韦青根城堡花园鸟瞰图，德国巴登-符腾堡州 (© aerial-photos.com/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "施韦青根城堡花园"
   },
   {
     "dateString": "20171202",
     "date": 1512172800000,
     "url": "http://cdn.nanxiongnandi.com/bing/PotashPonds_ZH-CN13213047688_1366x768.jpg",
     "name": "PotashPonds_ZH-CN13213047688",
-    "copyright": "摩押附近的沙漠中的钾蒸发池，美国犹他州 (© Jassen Todorov/Solent News/REX/Shutterstock)(Bing China)"
+    "copyright": "摩押附近的沙漠中的钾蒸发池，美国犹他州 (© Jassen Todorov/Solent News/REX/Shutterstock)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "格兰德"
   },
   {
     "dateString": "20171201",
     "date": 1512086400000,
     "url": "http://cdn.nanxiongnandi.com/bing/SpiralSpain_ZH-CN12059815472_1366x768.jpg",
     "name": "SpiralSpain_ZH-CN12059815472",
-    "copyright": "索菲亚王后艺术歌剧院的内部，西班牙巴伦西亚 (© AWL Images/Masterfile)(Bing China)"
+    "copyright": "索菲亚王后艺术歌剧院的内部，西班牙巴伦西亚 (© AWL Images/Masterfile)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "西班牙",
+    "City": "巴伦西亚"
   }
 ]

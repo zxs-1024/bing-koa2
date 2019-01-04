@@ -4,195 +4,279 @@
     "date": 1519776000000,
     "url": "http://cdn.nanxiongnandi.com/bing/ChurchillPB_ZH-CN11463903457_1366x768.jpg",
     "name": "ChurchillPB_ZH-CN11463903457",
-    "copyright": "丘吉尔小镇附近的北极熊，加拿大马尼托巴省 (© Alberto Ghizzi Panizza/Minden Pictures)(Bing China)"
+    "copyright": "丘吉尔小镇附近的北极熊，加拿大马尼托巴省 (© Alberto Ghizzi Panizza/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "加拿大",
+    "City": "丘吉尔镇"
   },
   {
     "dateString": "20180227",
     "date": 1519689600000,
     "url": "http://cdn.nanxiongnandi.com/bing/CactiIslaPescado_ZH-CN11317505000_1366x768.jpg",
     "name": "CactiIslaPescado_ZH-CN11317505000",
-    "copyright": "玻利维亚乌尤尼盐湖的仙人掌岛 (© Alex Saberi/Getty Images)(Bing China)"
+    "copyright": "玻利维亚乌尤尼盐湖的仙人掌岛 (© Alex Saberi/Getty Images)(Bing China)",
+    "Continent": "非洲",
+    "Country": "玻利维亚",
+    "City": "仙人掌岛"
   },
   {
     "dateString": "20180226",
     "date": 1519603200000,
     "url": "http://cdn.nanxiongnandi.com/bing/WoolBaySeadragon_ZH-CN13348117046_1366x768.jpg",
     "name": "WoolBaySeadragon_ZH-CN13348117046",
-    "copyright": "羊毛湾附近海域的叶形海龙，澳大利亚 (© Alex Mustard/Minden Pictures)(Bing China)"
+    "copyright": "羊毛湾附近海域的叶形海龙，澳大利亚 (© Alex Mustard/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180225",
     "date": 1519516800000,
     "url": "http://cdn.nanxiongnandi.com/bing/PinnaclesHoodoos_ZH-CN11336386074_1366x768.jpg",
     "name": "PinnaclesHoodoos_ZH-CN11336386074",
-    "copyright": "布莱斯峡谷国家公园的雾中石林，美国犹他州 (© Eleanor Scriven/plainpicture)(Bing China)"
+    "copyright": "布莱斯峡谷国家公园的雾中石林，美国犹他州 (© Eleanor Scriven/plainpicture)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "布莱斯峡谷国家公园"
   },
   {
     "dateString": "20180224",
     "date": 1519430400000,
     "url": "http://cdn.nanxiongnandi.com/bing/SwissFoxSnow_ZH-CN12291440880_1366x768.jpg",
     "name": "SwissFoxSnow_ZH-CN12291440880",
-    "copyright": "侏罗山脉一侧的一只赤狐，瑞士 (© Laurent Geslin/NPL/Minden Pictures)(Bing China)"
+    "copyright": "侏罗山脉一侧的一只赤狐，瑞士 (© Laurent Geslin/NPL/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "瑞士",
+    "City": "侏罗山"
   },
   {
     "dateString": "20180223",
     "date": 1519344000000,
     "url": "http://cdn.nanxiongnandi.com/bing/CORiverDelta_ZH-CN9758155357_1366x768.jpg",
     "name": "CORiverDelta_ZH-CN9758155357",
-    "copyright": "科罗拉多河三角洲鸟瞰图，墨西哥 (© Peter McBride/Aurora Photos)(Bing China)"
+    "copyright": "科罗拉多河三角洲鸟瞰图，墨西哥 (© Peter McBride/Aurora Photos)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "墨西哥",
+    "City": "科罗拉多河"
   },
   {
     "dateString": "20180222",
     "date": 1519257600000,
     "url": "http://cdn.nanxiongnandi.com/bing/RomanTheatre_ZH-CN9417897135_1366x768.jpg",
     "name": "RomanTheatre_ZH-CN9417897135",
-    "copyright": "罗马剧场，西班牙卡塔赫纳 (© Luis Davilla/Getty Images)(Bing China)"
+    "copyright": "罗马剧场，西班牙卡塔赫纳 (© Luis Davilla/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "西班牙",
+    "City": "卡塔赫纳"
   },
   {
     "dateString": "20180221",
     "date": 1519171200000,
     "url": "http://cdn.nanxiongnandi.com/bing/InnerdalsvatnaVideo_ZH-CN11002526366_1366x768.jpg",
     "name": "InnerdalsvatnaVideo_ZH-CN11002526366",
-    "copyright": "Ålvundeidet村附近的Innerdalsvatna湖，挪威 (© Anders Graham/Turbin Films/Nimia)(Bing China)"
+    "copyright": "Ålvundeidet村附近的Innerdalsvatna湖，挪威 (© Anders Graham/Turbin Films/Nimia)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "挪威",
+    "City": "孙达尔"
   },
   {
     "dateString": "20180220",
     "date": 1519084800000,
     "url": "http://cdn.nanxiongnandi.com/bing/AyuttayaBuddha_ZH-CN8897274980_1366x768.jpg",
     "name": "AyuttayaBuddha_ZH-CN8897274980",
-    "copyright": "阿瑜陀耶城内的“树中佛像”，泰国 (© Garret Suhrie/Tandem Stills + Motion)(Bing China)"
+    "copyright": "阿瑜陀耶城内的“树中佛像”，泰国 (© Garret Suhrie/Tandem Stills + Motion)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "泰国",
+    "City": "阿瑜陀耶城"
   },
   {
     "dateString": "20180219",
     "date": 1518998400000,
     "url": "http://cdn.nanxiongnandi.com/bing/KoriBustard_ZH-CN9730794842_1366x768.jpg",
     "name": "KoriBustard_ZH-CN9730794842",
-    "copyright": "雄性灰颈鹭鸨，肯尼亚马赛马拉国家保护区 (© Christina Krutz/Masterfile)(Bing China)"
+    "copyright": "雄性灰颈鹭鸨，肯尼亚马赛马拉国家保护区 (© Christina Krutz/Masterfile)(Bing China)",
+    "Continent": "非洲",
+    "Country": "肯尼亚",
+    "City": "马赛马拉国家保护区"
   },
   {
     "dateString": "20180218",
     "date": 1518912000000,
     "url": "http://cdn.nanxiongnandi.com/bing/GHOwl_ZH-CN8350803282_1366x768.jpg",
     "name": "GHOwl_ZH-CN8350803282",
-    "copyright": "圣克劳德市南部托霍普卡莱加湖附近的大雕鸮，美国佛罗里达州 (© Matthew Studebaker/Minden Pictures)(Bing China)"
+    "copyright": "圣克劳德市南部托霍普卡莱加湖附近的大雕鸮，美国佛罗里达州 (© Matthew Studebaker/Minden Pictures)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "圣克劳德市"
   },
   {
     "dateString": "20180217",
     "date": 1518825600000,
     "url": "http://cdn.nanxiongnandi.com/bing/OrangutanBaby_ZH-CN9942512858_1366x768.jpg",
     "name": "OrangutanBaby_ZH-CN9942512858",
-    "copyright": "勒塞尔火山国家公园内的一只小苏门答腊猩猩，印度尼西亚 (© Cyril Ruoso/Minden Pictures)(Bing China)"
+    "copyright": "勒塞尔火山国家公园内的一只小苏门答腊猩猩，印度尼西亚 (© Cyril Ruoso/Minden Pictures)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "印度尼西亚",
+    "City": "勒塞尔火山国家公园"
   },
   {
     "dateString": "20180216",
     "date": 1518739200000,
     "url": "http://cdn.nanxiongnandi.com/bing/WriteCouplets_ZH-CN11009087353_1366x768.jpg",
     "name": "WriteCouplets_ZH-CN11009087353",
-    "copyright": "【今日春节】写春联庆新春 (© yurouguan/GettyImages)(Bing China)"
+    "copyright": "【今日春节】写春联庆新春 (© yurouguan/GettyImages)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180215",
     "date": 1518652800000,
     "url": "http://cdn.nanxiongnandi.com/bing/HongKongFireworks_ZH-CN13422096721_1366x768.jpg",
     "name": "HongKongFireworks_ZH-CN13422096721",
-    "copyright": "【今日除夕】璀璨烟花迎新年，中国香港 (©Thanapol Kuptanisakorn/ Alamy Stock Photo)(Bing China)"
+    "copyright": "【今日除夕】璀璨烟花迎新年，中国香港 (©Thanapol Kuptanisakorn/ Alamy Stock Photo)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180214",
     "date": 1518566400000,
     "url": "http://cdn.nanxiongnandi.com/bing/AgricultureHeart_ZH-CN12475262667_1366x768.jpg",
     "name": "AgricultureHeart_ZH-CN12475262667",
-    "copyright": "【今日情人节】心形田野，德国特里陶 (© imageBROKER/Alamy)(Bing China)"
+    "copyright": "【今日情人节】心形田野，德国特里陶 (© imageBROKER/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "特里陶"
   },
   {
     "dateString": "20180213",
     "date": 1518480000000,
     "url": "http://cdn.nanxiongnandi.com/bing/PreservationHallStage_ZH-CN8992559975_1366x768.jpg",
     "name": "PreservationHallStage_ZH-CN8992559975",
-    "copyright": "路易斯安那州新奥尔良的典藏厅，美国 (© Cosmo Condina/Alamy)(Bing China)"
+    "copyright": "路易斯安那州新奥尔良的典藏厅，美国 (© Cosmo Condina/Alamy)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "新奥尔良"
   },
   {
     "dateString": "20180212",
     "date": 1518393600000,
     "url": "http://cdn.nanxiongnandi.com/bing/YungbulakangPalace_ZH-CN6941923546_1366x768.jpg",
     "name": "YungbulakangPalace_ZH-CN6941923546",
-    "copyright": "雍布拉康，中国西藏自治区 (© Yumian Deng)(Bing China)"
+    "copyright": "雍布拉康，中国西藏自治区 (© Yumian Deng)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "中国",
+    "City": "山南市"
   },
   {
     "dateString": "20180211",
     "date": 1518307200000,
     "url": "http://cdn.nanxiongnandi.com/bing/TeRewaRewa_ZH-CN9356115127_1366x768.jpg",
     "name": "TeRewaRewa_ZH-CN9356115127",
-    "copyright": "新普利茅斯附近的特雷瓦雷瓦桥，新西兰 (© Matthew Williams-Ellis/Aurora Photos)(Bing China)"
+    "copyright": "新普利茅斯附近的特雷瓦雷瓦桥，新西兰 (© Matthew Williams-Ellis/Aurora Photos)(Bing China)",
+    "Continent": "大洋洲",
+    "Country": "新西兰",
+    "City": "新普利茅斯"
   },
   {
     "dateString": "20180210",
     "date": 1518220800000,
     "url": "http://cdn.nanxiongnandi.com/bing/BonifacioCorsica_ZH-CN12276076394_1366x768.jpg",
     "name": "BonifacioCorsica_ZH-CN12276076394",
-    "copyright": "科西嘉岛上的博尼法乔城，法国 (© Hemis/Alamy)(Bing China)"
+    "copyright": "科西嘉岛上的博尼法乔城，法国 (© Hemis/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "法国",
+    "City": "博尼法乔"
   },
   {
     "dateString": "20180209",
     "date": 1518134400000,
     "url": "http://cdn.nanxiongnandi.com/bing/WhiteTiger_ZH-CN12326957209_1366x768.jpg",
     "name": "WhiteTiger_ZH-CN12326957209",
-    "copyright": "莫斯科动物园内的一只孟加拉白虎，俄罗斯 (© andamanec/Shutterstock)(Bing China)"
+    "copyright": "莫斯科动物园内的一只孟加拉白虎，俄罗斯 (© andamanec/Shutterstock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "俄罗斯",
+    "City": "莫斯科"
   },
   {
     "dateString": "20180208",
     "date": 1518048000000,
     "url": "http://cdn.nanxiongnandi.com/bing/SaltMountains_ZH-CN12959138910_1366x768.jpg",
     "name": "SaltMountains_ZH-CN12959138910",
-    "copyright": "多梅科山脉的岩盐山麓，智利 (© Sergio Ballivian/Tandem Stills + Motion)(Bing China)"
+    "copyright": "多梅科山脉的岩盐山麓，智利 (© Sergio Ballivian/Tandem Stills + Motion)(Bing China)",
+    "Continent": "南美洲",
+    "Country": "智利",
+    "City": "圣佩德罗德阿塔卡马"
   },
   {
     "dateString": "20180207",
     "date": 1517961600000,
     "url": "http://cdn.nanxiongnandi.com/bing/KelpiesFalkirk_ZH-CN8885510040_1366x768.jpg",
     "name": "KelpiesFalkirk_ZH-CN8885510040",
-    "copyright": "螺旋公园内的铠魄巨马雕像，苏格兰福尔柯克 (© Best Shot Factory/REX/Shutterstock)(Bing China)"
+    "copyright": "螺旋公园内的铠魄巨马雕像，苏格兰福尔柯克 (© Best Shot Factory/REX/Shutterstock)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "福尔柯克"
   },
   {
     "dateString": "20180206",
     "date": 1517875200000,
     "url": "http://cdn.nanxiongnandi.com/bing/CumberlandIsland_ZH-CN9225392774_1366x768.jpg",
     "name": "CumberlandIsland_ZH-CN9225392774",
-    "copyright": "坎伯兰岛的海岸森林，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)(Bing China)"
+    "copyright": "坎伯兰岛的海岸森林，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "坎伯兰岛"
   },
   {
     "dateString": "20180205",
     "date": 1517788800000,
     "url": "http://cdn.nanxiongnandi.com/bing/StormySeas_ZH-CN9261044607_1366x768.jpg",
     "name": "StormySeas_ZH-CN9261044607",
-    "copyright": "南极洲的浮动冰山 (© Ray Hems/Getty Images)(Bing China)"
+    "copyright": "南极洲的浮动冰山 (© Ray Hems/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180204",
     "date": 1517702400000,
     "url": "http://cdn.nanxiongnandi.com/bing/MonkeyGolden1_ZH-CN12125769581_1366x768.jpg",
     "name": "MonkeyGolden1_ZH-CN12125769581",
-    "copyright": "【今日立春】周至自然保护区内一只以樱花为食的金丝猴，中国陕西秦岭 (© Florian Möllers/Minden Pictures)(Bing China)"
+    "copyright": "【今日立春】周至自然保护区内一只以樱花为食的金丝猴，中国陕西秦岭 (© Florian Möllers/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180203",
     "date": 1517616000000,
     "url": "http://cdn.nanxiongnandi.com/bing/UrbinoRooftops_ZH-CN9076169426_1366x768.jpg",
     "name": "UrbinoRooftops_ZH-CN9076169426",
-    "copyright": "城墙环绕之城乌尔比诺的屋顶，意大利 (© Andrea Pucci/Getty Images)(Bing China)"
+    "copyright": "城墙环绕之城乌尔比诺的屋顶，意大利 (© Andrea Pucci/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "乌尔比诺"
   },
   {
     "dateString": "20180202",
     "date": 1517529600000,
     "url": "http://cdn.nanxiongnandi.com/bing/AustrianAlpineMarmots_ZH-CN10896836289_1366x768.jpg",
     "name": "AustrianAlpineMarmots_ZH-CN10896836289",
-    "copyright": "高地陶恩国家公园内的阿尔卑斯旱獭，奥地利 (© blickwinkel/Alamy)(Bing China)"
+    "copyright": "高地陶恩国家公园内的阿尔卑斯旱獭，奥地利 (© blickwinkel/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "奥地利",
+    "City": "高地陶恩国家公园"
   },
   {
     "dateString": "20180201",
     "date": 1517443200000,
     "url": "http://cdn.nanxiongnandi.com/bing/StubenamAlberg_ZH-CN9268418169_1366x768.jpg",
     "name": "StubenamAlberg_ZH-CN9268418169",
-    "copyright": "施图本阿尔贝格，奥地利 (© 500px/Aurora Photos)(Bing China)"
+    "copyright": "施图本阿尔贝格，奥地利 (© 500px/Aurora Photos)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "奥地利",
+    "City": "施图本"
   }
 ]

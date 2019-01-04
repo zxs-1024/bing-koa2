@@ -4,209 +4,299 @@
     "date": 1530316800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MeteorCrater_ZH-CN10237243221_1366x768.jpg",
     "name": "MeteorCrater_ZH-CN10237243221",
-    "copyright": "巴林杰陨石坑，美国亚利桑那州 (© Michele Falzone/Alamy)(Bing China)"
+    "copyright": "巴林杰陨石坑，美国亚利桑那州 (© Michele Falzone/Alamy)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "科科尼诺县"
   },
   {
     "dateString": "20180629",
     "date": 1530230400000,
     "url": "http://cdn.nanxiongnandi.com/bing/AuroraPhotographer_ZH-CN11480495787_1366x768.jpg",
     "name": "AuroraPhotographer_ZH-CN11480495787",
-    "copyright": "在乌塔克雷夫海滩拍摄的北极光，挪威 (© David Clapp/Getty Images)(Bing China)"
+    "copyright": "在乌塔克雷夫海滩拍摄的北极光，挪威 (© David Clapp/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "挪威",
+    "City": "罗弗敦群岛"
   },
   {
     "dateString": "20180628",
     "date": 1530144000000,
     "url": "http://cdn.nanxiongnandi.com/bing/CompositeBeach_ZH-CN9646269492_1366x768.jpg",
     "name": "CompositeBeach_ZH-CN9646269492",
-    "copyright": "位于利尼亚诺萨比亚多罗的海滩的合成照片，意大利 (© Rudi Sebastian/plainpicture)(Bing China)"
+    "copyright": "位于利尼亚诺萨比亚多罗的海滩的合成照片，意大利 (© Rudi Sebastian/plainpicture)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "意大利",
+    "City": "利尼亚诺萨比亚多罗"
   },
   {
     "dateString": "20180627",
     "date": 1530057600000,
     "url": "http://cdn.nanxiongnandi.com/bing/ConcreteDinosaurs_ZH-CN9038296644_1366x768.jpg",
     "name": "ConcreteDinosaurs_ZH-CN9038296644",
-    "copyright": "66号历史公路上的混凝土恐龙及其附近40号州际公路上的卡车 (© Gary Warnimont/Alamy)(Bing China)"
+    "copyright": "66号历史公路上的混凝土恐龙及其附近40号州际公路上的卡车 (© Gary Warnimont/Alamy)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "霍尔布鲁克"
   },
   {
     "dateString": "20180626",
     "date": 1529971200000,
     "url": "http://cdn.nanxiongnandi.com/bing/MorondavaBaobab_ZH-CN11131924506_1366x768.jpg",
     "name": "MorondavaBaobab_ZH-CN11131924506",
-    "copyright": "猴面包树大道上的猴面包树在积水中的倒影，马达加斯加梅纳贝区 (© Gabrielle Therin-Weise/Getty Images)(Bing China)"
+    "copyright": "猴面包树大道上的猴面包树在积水中的倒影，马达加斯加梅纳贝区 (© Gabrielle Therin-Weise/Getty Images)(Bing China)",
+    "Continent": "非洲",
+    "Country": "马达加斯加",
+    "City": "穆龙达瓦"
   },
   {
     "dateString": "20180625",
     "date": 1529884800000,
     "url": "http://cdn.nanxiongnandi.com/bing/MODIS_ZH-CN14242381223_1366x768.jpg",
     "name": "MODIS_ZH-CN14242381223",
-    "copyright": "太平洋上空纵横交错的船舶轨迹 (© NASA)(Bing China)"
+    "copyright": "太平洋上空纵横交错的船舶轨迹 (© NASA)(Bing China)",
+    "Continent": "亚洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180624",
     "date": 1529798400000,
     "url": "http://cdn.nanxiongnandi.com/bing/ReichenauSommer_ZH-CN10985992170_1366x768.jpg",
     "name": "ReichenauSommer_ZH-CN10985992170",
-    "copyright": "赖兴瑙岛上的圣玛丽圣马古斯教堂，德国巴登-符腾堡州 (© Westend61/Getty Images)(Bing China)"
+    "copyright": "赖兴瑙岛上的圣玛丽圣马古斯教堂，德国巴登-符腾堡州 (© Westend61/Getty Images)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "德国",
+    "City": "赖兴瑙岛"
   },
   {
     "dateString": "20180623",
     "date": 1529712000000,
     "url": "http://cdn.nanxiongnandi.com/bing/Europa_ZH-CN11806353149_1366x768.jpg",
     "name": "Europa_ZH-CN11806353149",
-    "copyright": "航行在佩诺拉海峡的欧罗巴帆船，南极洲南极半岛 (© Colin Monteath/Minden Pictures)(Bing China)"
+    "copyright": "航行在佩诺拉海峡的欧罗巴帆船，南极洲南极半岛 (© Colin Monteath/Minden Pictures)(Bing China)",
+    "Continent": "南极洲",
+    "Country": "南极洲",
+    "City": "佩诺拉海峡"
   },
   {
     "dateString": "20180622",
     "date": 1529625600000,
     "url": "http://cdn.nanxiongnandi.com/bing/DogWork_ZH-CN10032511594_1366x768.jpg",
     "name": "DogWork_ZH-CN10032511594",
-    "copyright": "带着你的狗狗一起去上班 (© Getty Images)(Bing China)"
+    "copyright": "带着你的狗狗一起去上班 (© Getty Images)(Bing China)",
+    "Continent": "非洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180621",
     "date": 1529539200000,
     "url": "http://cdn.nanxiongnandi.com/bing/lotus_ZH-CN12081917194_1366x768.jpg",
     "name": "lotus_ZH-CN12081917194",
-    "copyright": "【今日夏至】夏至到，荷花开（© Adam Jones/DanitaDelimont.com -- All rights reserved）(Bing China)"
+    "copyright": "【今日夏至】夏至到，荷花开（© Adam Jones/DanitaDelimont.com -- All rights reserved）(Bing China)",
+    "Continent": "非洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180620",
     "date": 1529452800000,
     "url": "http://cdn.nanxiongnandi.com/bing/WorldRefugeeDay_ZH-CN5421237644_1366x768.jpg",
     "name": "WorldRefugeeDay_ZH-CN5421237644",
-    "copyright": "2000年到2016年间全球难民的流动情况 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab)(Bing China)"
+    "copyright": "2000年到2016年间全球难民的流动情况 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab)(Bing China)",
+    "Continent": "非洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180619",
     "date": 1529366400000,
     "url": "http://cdn.nanxiongnandi.com/bing/CypressPygmyOwl_ZH-CN12382299143_1366x768.jpg",
     "name": "CypressPygmyOwl_ZH-CN12382299143",
-    "copyright": "栖息在树枝上的山鸺鹠，加拿大不列颠哥伦比亚省赛普拉斯山 (© Connor Stefanison/Minden Pictures)(Bing China)"
+    "copyright": "栖息在树枝上的山鸺鹠，加拿大不列颠哥伦比亚省赛普拉斯山 (© Connor Stefanison/Minden Pictures)(Bing China)",
+    "Continent": "非洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180618",
     "date": 1529280000000,
     "url": "http://cdn.nanxiongnandi.com/bing/DUAN_ZH-CN9451316695_1366x768.jpg",
     "name": "DUAN_ZH-CN9451316695",
-    "copyright": "【今日端午节】参加襄阳龙舟大赛的12只龙舟，中国湖北省襄阳市（© VCG/Getty Images）(Bing China)"
+    "copyright": "【今日端午节】参加襄阳龙舟大赛的12只龙舟，中国湖北省襄阳市（© VCG/Getty Images）(Bing China)",
+    "Continent": "非洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180617",
     "date": 1529193600000,
     "url": "http://cdn.nanxiongnandi.com/bing/OstrichDad_ZH-CN8968242630_1366x768.jpg",
     "name": "OstrichDad_ZH-CN8968242630",
-    "copyright": "【今日父亲节】野外旅行的鸵鸟爸爸与孩子们，南非西开普省 (© Richard Du Toit/Minden Pictures)(Bing China)"
+    "copyright": "【今日父亲节】野外旅行的鸵鸟爸爸与孩子们，南非西开普省 (© Richard Du Toit/Minden Pictures)(Bing China)",
+    "Continent": "非洲",
+    "Country": "南非",
+    "City": "西开普省"
   },
   {
     "dateString": "20180616",
     "date": 1529107200000,
     "url": "http://cdn.nanxiongnandi.com/bing/SpainSurfer_ZH-CN12759707713_1366x768.jpg",
     "name": "SpainSurfer_ZH-CN12759707713",
-    "copyright": "冲浪者追逐浪潮的鸟瞰图，西班牙加那利群岛特内里费岛 (© Sergio Villalba/Aurora Photos)(Bing China)"
+    "copyright": "冲浪者追逐浪潮的鸟瞰图，西班牙加那利群岛特内里费岛 (© Sergio Villalba/Aurora Photos)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "西班牙",
+    "City": "特内里费岛"
   },
   {
     "dateString": "20180615",
     "date": 1529020800000,
     "url": "http://cdn.nanxiongnandi.com/bing/TinyLadybird_ZH-CN14023054484_1366x768.jpg",
     "name": "TinyLadybird_ZH-CN14023054484",
-    "copyright": "蘑菇上的七星瓢虫，荷兰阿纳姆 (© Misja Smits/Minden Pictures)(Bing China)"
+    "copyright": "蘑菇上的七星瓢虫，荷兰阿纳姆 (© Misja Smits/Minden Pictures)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180614",
     "date": 1528934400000,
     "url": "http://cdn.nanxiongnandi.com/bing/HenningsvaerFootball_ZH-CN7899320816_1366x768.jpg",
     "name": "HenningsvaerFootball_ZH-CN7899320816",
-    "copyright": "亨宁斯韦尔体育场，挪威罗弗敦群岛 (© Nick Fox/Alamy)(Bing China)"
+    "copyright": "亨宁斯韦尔体育场，挪威罗弗敦群岛 (© Nick Fox/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "挪威",
+    "City": "亨宁斯韦尔"
   },
   {
     "dateString": "20180613",
     "date": 1528848000000,
     "url": "http://cdn.nanxiongnandi.com/bing/DandelionXray_ZH-CN10220788253_1366x768.jpg",
     "name": "DandelionXray_ZH-CN10220788253",
-    "copyright": "蒲公英花的彩色X射线 (© Arie van 't Riet/Science Photo Library)(Bing China)"
+    "copyright": "蒲公英花的彩色X射线 (© Arie van 't Riet/Science Photo Library)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "",
+    "City": ""
   },
   {
     "dateString": "20180612",
     "date": 1528761600000,
     "url": "http://cdn.nanxiongnandi.com/bing/Kiasma_ZH-CN13083124808_1366x768.jpg",
     "name": "Kiasma_ZH-CN13083124808",
-    "copyright": "奇亚斯玛当代艺术博物馆，芬兰赫尔辛基 (© Nikolaus Gruenwald/Offset)(Bing China)"
+    "copyright": "奇亚斯玛当代艺术博物馆，芬兰赫尔辛基 (© Nikolaus Gruenwald/Offset)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "芬兰",
+    "City": "赫尔辛基"
   },
   {
     "dateString": "20180611",
     "date": 1528675200000,
     "url": "http://cdn.nanxiongnandi.com/bing/GBRBday_ZH-CN12318325409_1366x768.jpg",
     "name": "GBRBday_ZH-CN12318325409",
-    "copyright": "大堡礁，澳大利亚昆士兰州 (© Dick Sweeney/Gallery Stock)(Bing China)"
+    "copyright": "大堡礁，澳大利亚昆士兰州 (© Dick Sweeney/Gallery Stock)(Bing China)",
+    "Continent": "大洋洲",
+    "Country": "澳大利亚",
+    "City": "大堡礁"
   },
   {
     "dateString": "20180610",
     "date": 1528588800000,
     "url": "http://cdn.nanxiongnandi.com/bing/PenaNationalPalace_ZH-CN12058841312_1366x768.jpg",
     "name": "PenaNationalPalace_ZH-CN12058841312",
-    "copyright": "佩纳宫，葡萄牙辛特拉市 (© Andre Vicente Goncalves/Alamy)(Bing China)"
+    "copyright": "佩纳宫，葡萄牙辛特拉市 (© Andre Vicente Goncalves/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "葡萄牙",
+    "City": "辛特拉市"
   },
   {
     "dateString": "20180609",
     "date": 1528502400000,
     "url": "http://cdn.nanxiongnandi.com/bing/YarnBombing_ZH-CN9558012661_1366x768.jpg",
     "name": "YarnBombing_ZH-CN9558012661",
-    "copyright": "Gurnard村的毛线轰炸街头艺术，英格兰怀特岛 (© Kuki Waterstone/Alamy)(Bing China)"
+    "copyright": "Gurnard村的毛线轰炸街头艺术，英格兰怀特岛 (© Kuki Waterstone/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "怀特岛"
   },
   {
     "dateString": "20180608",
     "date": 1528416000000,
     "url": "http://cdn.nanxiongnandi.com/bing/WorldOceanDay_ZH-CN7537097723_1366x768.jpg",
     "name": "WorldOceanDay_ZH-CN7537097723",
-    "copyright": "毛伊岛上的绿海龟，美国夏威夷州 (© David Fleetham/Visuals Unlimited, Inc.)(Bing China)"
+    "copyright": "毛伊岛上的绿海龟，美国夏威夷州 (© David Fleetham/Visuals Unlimited, Inc.)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "毛伊岛"
   },
   {
     "dateString": "20180607",
     "date": 1528329600000,
     "url": "http://cdn.nanxiongnandi.com/bing/WhalePod_ZH-CN9101375608_1366x768.jpg",
     "name": "WhalePod_ZH-CN9101375608",
-    "copyright": "阿拉斯加州内线航道林恩运河中的座头鲸，美国 (© John Hyde/plainpicture)(Bing China)"
+    "copyright": "阿拉斯加州内线航道林恩运河中的座头鲸，美国 (© John Hyde/plainpicture)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "林恩运河"
   },
   {
     "dateString": "20180606",
     "date": 1528243200000,
     "url": "http://cdn.nanxiongnandi.com/bing/FlyinDrivein_ZH-CN11097970692_1366x768.jpg",
     "name": "FlyinDrivein_ZH-CN11097970692",
-    "copyright": "抵达沃尔镇Fly-in Drive-in剧场的观众，美国新泽西州 (© Martha Holmes/Time Life Pictures/Getty Images)(Bing China)"
+    "copyright": "抵达沃尔镇Fly-in Drive-in剧场的观众，美国新泽西州 (© Martha Holmes/Time Life Pictures/Getty Images)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "沃尔镇"
   },
   {
     "dateString": "20180605",
     "date": 1528156800000,
     "url": "http://cdn.nanxiongnandi.com/bing/AuburnBalloons_ZH-CN8649124966_1366x768.jpg",
     "name": "AuburnBalloons_ZH-CN8649124966",
-    "copyright": "奥本上方的热气球，美国华盛顿州 (© Taliesin Black-Brown and Ben Cowan/Nimia)(Bing China)"
+    "copyright": "奥本上方的热气球，美国华盛顿州 (© Taliesin Black-Brown and Ben Cowan/Nimia)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "奥本"
   },
   {
     "dateString": "20180604",
     "date": 1528070400000,
     "url": "http://cdn.nanxiongnandi.com/bing/PJ_ZH-CN10859560585_1366x768.jpg",
     "name": "PJ_ZH-CN10859560585",
-    "copyright": "塔龙加动物园内的'PJ the Port Jackson Shark'光影雕塑，澳大利亚悉尼 (© Wendell Teodoro/REX/Shutterstock)(Bing China)"
+    "copyright": "塔龙加动物园内的'PJ the Port Jackson Shark'光影雕塑，澳大利亚悉尼 (© Wendell Teodoro/REX/Shutterstock)(Bing China)",
+    "Continent": "大洋洲",
+    "Country": "澳大利亚",
+    "City": "悉尼"
   },
   {
     "dateString": "20180603",
     "date": 1527984000000,
     "url": "http://cdn.nanxiongnandi.com/bing/Liverpool_ZH-CN12418492140_1366x768.jpg",
     "name": "Liverpool_ZH-CN12418492140",
-    "copyright": "从默西河上看利物浦，英格兰 (© Alan Novelli/Alamy)(Bing China)"
+    "copyright": "从默西河上看利物浦，英格兰 (© Alan Novelli/Alamy)(Bing China)",
+    "Continent": "欧洲",
+    "Country": "英国",
+    "City": "利物浦"
   },
   {
     "dateString": "20180602",
     "date": 1527897600000,
     "url": "http://cdn.nanxiongnandi.com/bing/R2R2R_ZH-CN11140090151_1366x768.jpg",
     "name": "R2R2R_ZH-CN11140090151",
-    "copyright": "大峡谷国家公园南凯巴布步道的赛跑者，美国亚利桑那州 (© Jason J. Hatfield/Tandem Stills + Motion)(Bing China)"
+    "copyright": "大峡谷国家公园南凯巴布步道的赛跑者，美国亚利桑那州 (© Jason J. Hatfield/Tandem Stills + Motion)(Bing China)",
+    "Continent": "北美洲",
+    "Country": "美国",
+    "City": "大峡谷国家公园"
   },
   {
     "dateString": "20180601",
     "date": 1527811200000,
     "url": "http://cdn.nanxiongnandi.com/bing/happychildday_ZH-CN9412524114_1366x768.jpg",
     "name": "happychildday_ZH-CN9412524114",
-    "copyright": "【六一儿童节】孩子们在泳池嬉戏，中国九江（© Visual China Group/Getty）(Bing China)"
+    "copyright": "【六一儿童节】孩子们在泳池嬉戏，中国九江（© Visual China Group/Getty）(Bing China)",
+    "Continent": "北美洲",
+    "Country": "",
+    "City": ""
   }
 ]
