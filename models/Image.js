@@ -11,6 +11,9 @@ module.exports = function() {
       url: String,
       name: String,
       copyright: String,
+      Continent: String,
+      Country: String,
+      City: String,
       detail: { type: Schema.Types.ObjectId, ref: 'Detail' }
     },
     { timestamps: true }
