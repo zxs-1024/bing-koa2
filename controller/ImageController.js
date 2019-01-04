@@ -24,7 +24,7 @@ class ImageController {
       ctx.body = collect
     } else {
       // trans local data
-      await multiTableQuery()
+      // await multiTableQuery()
       ctx.body = await Image.find({})
         .sort(sort)
         .limit(100)
@@ -38,9 +38,9 @@ class ImageController {
   }
 
   static async getImageByDate(ctx) {
-    const { data } = ctx.params
+    const { date } = ctx.params
     const images = await Image.find({
-      dateString: { $regex: data }
+      dateString: { $regex: date }
     }).sort(sort)
     ctx.body = images
   }
