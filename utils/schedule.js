@@ -96,14 +96,16 @@ async function puppeteerFn(page, date) {
     // 获取文本
     const title = handleGetInnerText('#hplaT .hplaTtl')
     const attribute = handleGetInnerText('#hplaT .hplaAttr')
-
-    const titleDescribes = document.querySelectorAll('.hplats')
-    const titleDescribe = handleGetInnerText('.hplaCata .hplatt')
-    const titleDescribe1 = handleGetInnerText('.hplaCata .hplats')
+    const titleDescribes = document.querySelectorAll('.hplats') || [{}, {}, {}]
+    const Au = document.querySelectorAll('.hplatt') || [{}, {}, {}]
+    const titleDescribe1 = handleGetInnerText('.hplaCata .hplatt')
+    const titleDescribeAu1 = handleGetInnerText('.hplaCata .hplats')
     const titleDescribe2 = titleDescribes[1] && titleDescribes[1].innerText
+    const titleDescribeAu2 = Au[1] && Au[1].innerText
     const titleDescribe3 = titleDescribes[2] && titleDescribes[2].innerText
+    const titleDescribeAu3 = Au[2] && Au[2].innerText
 
-    const describes = document.querySelectorAll('.hplatxt')
+    const describes = document.querySelectorAll('.hplatxt') || [{}, {}, {}]
     const describe1 = handleGetInnerText('#hplaSnippet')
     const describe2 = describes[0] && describes[0].innerText
     const describe3 = describes[1] && describes[1].innerText
@@ -124,10 +126,12 @@ async function puppeteerFn(page, date) {
       date,
       attribute,
       title,
-      titleDescribe,
       titleDescribe1,
+      titleDescribeAu1,
       titleDescribe2,
+      titleDescribeAu2,
       titleDescribe3,
+      titleDescribeAu3,
       describe1,
       describe2,
       describe3,
@@ -139,7 +143,7 @@ async function puppeteerFn(page, date) {
 }
 
 module.exports = () => {
-  const time = '27 5 * * *'
+  const time = '37 18 * * *'
   schedule.scheduleJob(time, function() {
     main()
     console.log(`The schedule.scheduleJob ${time} !`)

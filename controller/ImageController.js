@@ -13,6 +13,9 @@ const sort = { date: -1 }
 // 添加定时任务
 schedule()
 
+// 加载本地数据
+// multiTableQuery()
+
 class ImageController {
   static async getImagesAll(ctx) {
     const count = await Image.count({})
@@ -22,12 +25,6 @@ class ImageController {
         .sort(sort)
         .limit(100)
       ctx.body = collect
-    } else {
-      // trans local data
-      // await multiTableQuery()
-      ctx.body = await Image.find({})
-        .sort(sort)
-        .limit(100)
     }
   }
 

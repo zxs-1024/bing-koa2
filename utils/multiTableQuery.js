@@ -48,7 +48,7 @@ async function handleSaveData(imageData, detailData) {
     const image = new Image({ ...imageData, detail: detail._id })
     await image.save((err, image) => {
       if (err) return console.error(err)
-      console.log(`储存详情成功！`, image)
+      console.log(`储存详情成功！`, image.dateString)
     })
   })
 }
