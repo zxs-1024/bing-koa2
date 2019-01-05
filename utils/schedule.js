@@ -50,7 +50,15 @@ async function main() {
     Latitude
   }
 
-  await handleSaveData(image, collect)
+  await handleSaveData(
+    {
+      ...image,
+      Continent,
+      Country,
+      City
+    },
+    collect
+  )
 }
 
 function handleGetBingImageData() {
@@ -143,7 +151,7 @@ async function puppeteerFn(page, date) {
 }
 
 module.exports = () => {
-  const time = '37 18 * * *'
+  const time = '59 0 * * *'
   schedule.scheduleJob(time, function() {
     main()
     console.log(`The schedule.scheduleJob ${time} !`)
