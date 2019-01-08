@@ -110,7 +110,40 @@ const browser = await puppeteer.launch({
 
 [Centos7 部署 Puppeteer 服务](http://www.lijundong.com/deply-puppeteer-on-production/)
 
-### nginx 接口代理
+## 通过 node-schedule 设置定时任务
+
+### 安装
+
+```bash
+npm install node-schedule
+```
+
+### 时间设置
+
+```bash
+*    *    *    *    *    *
+┬    ┬    ┬    ┬    ┬    ┬
+│    │    │    │    │    │
+│    │    │    │    │    └ day of week (0 - 7) (0 or 7 is Sun)
+│    │    │    │    └───── month (1 - 12)
+│    │    │    └────────── day of month (1 - 31)
+│    │    └─────────────── hour (0 - 23)
+│    └──────────────────── minute (0 - 59)
+└───────────────────────── second (0 - 59, OPTIONAL)
+```
+
+Example
+
+```js
+const time = '11 11 * * *'
+
+schedule.scheduleJob(time, function() {
+  main()
+  console.log(`The schedule.scheduleJob ${time} !`)
+})
+```
+
+## nginx 接口代理
 
 编辑 nginx.conf 配置
 
