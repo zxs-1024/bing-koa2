@@ -94,6 +94,20 @@ TROUBLESHOOTING: https://github.com/GoogleChrome/puppeteer/blob/master/docs/trou
 yum install pango.x86_64 libXcomposite.x86_64 libXcursor.x86_64 libXdamage.x86_64 libXext.x86_64 libXi.x86_64 libXtst.x86_64 cups-libs.x86_64 libXScrnSaver.x86_64 libXrandr.x86_64 GConf2.x86_64 alsa-lib.x86_64 atk.x86_64 gtk3.x86_64 -y
 ```
 
+需要以 --no-sandbox 模式启动
+
+```bash
+Error: Failed to launch chrome!
+[0108/111100.740545:ERROR:zygote_host_impl_linux.cc(89)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+```
+
+```js
+const browser = await puppeteer.launch({
+  headless: true,
+  args: ['--no-sandbox']
+})
+```
+
 [Centos7 部署 Puppeteer 服务](http://www.lijundong.com/deply-puppeteer-on-production/)
 
 ### nginx 接口代理

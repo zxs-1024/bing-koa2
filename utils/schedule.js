@@ -14,6 +14,7 @@ const time = dayjs().format('YYYYMMDD')
 async function main() {
   const browser = await puppeteer.launch({
     headless: true,
+    args: ['--no-sandbox'],
     timeout: 0,
     ignoreHTTPSErrors: true
   })
