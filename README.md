@@ -174,6 +174,23 @@ nginx -s reload
 
 [Multer](https://github.com/expressjs/multer)
 
+## Nginx Config
+
+```bash
+location ~ /image/ {
+  add_header Content-Type "image/jpeg";
+  add_header Content-disposition "attachment";
+  root /var/www/;
+  expires 30d;
+  autoindex on;
+}
+```
+
+- Content-disposition "attachment"; 设置 Response Headers 浏览器自动下载
+- root /var/www/; 路径配置
+- expires 30d; 缓存 30 天
+- autoindex on; 目录浏览功能
+
 ## 参考资料
 
 [mongoose 基础入门](https://www.cnblogs.com/xiaohuochai/p/7215067.html#anchor9)
