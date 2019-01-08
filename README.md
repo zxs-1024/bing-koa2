@@ -68,6 +68,34 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 cnpm i puppeteer
 ```
 
+## 需要添加 Chromium 依赖
+
+将项目部署到服务器上后，发现定时任务没有生效，vi /root/.pm2/logs/www-error.log 查看 pm2 错误日志：
+
+```bash
+TROUBLESHOOTING: https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md
+
+    at onClose (/var/www/bing-koa2/node_modules/_puppeteer@1.11.0@puppeteer/lib/Launcher.js:342:14)
+    at Interface.helper.addEventListener (/var/www/bing-koa2/node_modules/_puppeteer@1.11.0@puppeteer/lib/Launcher.js:331:50)
+    at Interface.emit (events.js:187:15)
+    at Interface.close (readline.js:379:8)
+    at Socket.onend (readline.js:157:10)
+    at Socket.emit (events.js:187:15)
+    at endReadableNT (_stream_readable.js:1094:12)
+    at args.(anonymous function) (/usr/local/lib/node_modules/pm2/node_modules/event-loop-inspector/index.js:138:29)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+(node:10843) UnhandledPromiseRejectionWarning: Error: Failed to launch chrome!
+/var/www/bing-koa2/node_modules/_puppeteer@1.11.0@puppeteer/.local-chromium/linux-609904/chrome-linux/chrome: error while loading shared libraries: libXcomposite.so.1: cannot open shared object file: No such file or directory
+```
+
+发现是 puppeteer 没有打开 chrome，发现是缺少相关依赖
+
+```bash
+yum install pango.x86_64 libXcomposite.x86_64 libXcursor.x86_64 libXdamage.x86_64 libXext.x86_64 libXi.x86_64 libXtst.x86_64 cups-libs.x86_64 libXScrnSaver.x86_64 libXrandr.x86_64 GConf2.x86_64 alsa-lib.x86_64 atk.x86_64 gtk3.x86_64 -y
+```
+
+[Centos7 部署 Puppeteer 服务](http://www.lijundong.com/deply-puppeteer-on-production/)
+
 ### nginx 接口代理
 
 编辑 nginx.conf 配置
