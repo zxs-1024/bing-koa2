@@ -1,6 +1,6 @@
 const mongoConfig = {
   username: 'zhanghao',
-  psw: 'lulu',
+  psw: '7667449zh',
   address: '118.24.8.202:27017',
   uri: '118.24.8.202:27017',
   db: 'fire'
