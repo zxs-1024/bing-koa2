@@ -74,10 +74,13 @@ function handleGetBingImageData() {
 
     const name = urlbase.replace(/\/az\/hprichbg\/rb\//, '')
     const url = `http://cdn.nanxiongnandi.com/bing/${name}_1366x768.jpg`
+    const imageUrl = `https://zhanghao-zhoushan.cn/image/large/${name}_1366x768.jpg`
+
     return {
       dateString,
       date: dayjs().valueOf(),
       url,
+      imageUrl,
       urlBase1,
       urlBase2,
       name,
@@ -129,30 +132,48 @@ async function puppeteerFn(page, date) {
       `${time.slice(0, 4)}-${time.slice(4, 6)}-${time.slice(6, 8)}`
     ).getTime()
 
+    const story = []
+
+    if (titleDescribe1 || describe1 || miniImage1) {
+      story.push({
+        title: titleDescribe1,
+        au: titleDescribeAu1,
+        describe: describe1,
+        miniImage: miniImage1
+      })
+    }
+
+    if (titleDescribe2 || describe2 || miniImage2) {
+      story.push({
+        title: titleDescribe2,
+        au: titleDescribeAu2,
+        describe: describe2,
+        miniImage: miniImage2
+      })
+    }
+
+    if (titleDescribe3 || describe3 || miniImage3) {
+      story.push({
+        title: titleDescribe3,
+        au: titleDescribeAu3,
+        describe: describe3,
+        miniImage: miniImage3
+      })
+    }
+
     // 合并成对象
     return {
       dateString: time,
       date,
       attribute,
       title,
-      titleDescribe1,
-      titleDescribeAu1,
-      titleDescribe2,
-      titleDescribeAu2,
-      titleDescribe3,
-      titleDescribeAu3,
-      describe1,
-      describe2,
-      describe3,
-      miniImage1,
-      miniImage2,
-      miniImage3
+      story
     }
   }, date)
 }
 
 module.exports = () => {
-  const time = '25 11 * * *'
+  const time = '18 11 * * *'
   schedule.scheduleJob(time, function() {
     main()
     console.log(`The schedule.scheduleJob ${time} !`)

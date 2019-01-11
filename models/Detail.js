@@ -9,18 +9,14 @@ module.exports = function() {
       dateString: String,
       date: { type: Date, default: Date.now },
       title: String,
-      titleDescribe1: String,
-      titleDescribeAu1: String,
-      titleDescribe2: String,
-      titleDescribeAu2: String,
-      titleDescribe3: String,
-      titleDescribeAu3: String,
-      describe1: String,
-      describe2: String,
-      describe3: String,
-      miniImage1: String,
-      miniImage2: String,
-      miniImage3: String,
+      story: [
+        {
+          title: String,
+          au: String,
+          describe: String,
+          miniUrl: String
+        }
+      ],
       primaryImageUrl: String,
       provider: String,
       Continent: String,

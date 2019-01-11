@@ -8,7 +8,7 @@ module.exports = function() {
     {
       dateString: String,
       date: { type: Date, default: Date.now },
-      url: String,
+      imageUrl: String,
       name: String,
       copyright: String,
       Continent: String,
