@@ -1,15 +1,24 @@
 const schedule = require('node-schedule')
 const puppeteer = require('puppeteer')
+const fs = require('fs')
+const path = require('path')
+const { promisify } = require('util')
 const axios = require('axios')
 const dayjs = require('dayjs')
 
+const mkdir = promisify(fs.mkdir)
 const { handleSaveData } = require('./multiTableQuery')
+const { mkdirAsync, downLoadFile } = require('./index')
 
 const url =
   'https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1546351489339&pid=hp&video=1'
 const storyUrl = 'https://cn.bing.com/cnhp/coverstory?d='
 const detailUrl = 'https://cn.bing.com/cnhp/life?currentDate='
 const time = dayjs().format('YYYYMMDD')
+
+const imagePath = path.resolve(__dirname, '../', '../', 'image')
+const largeImagePath = path.resolve(__dirname, '../', '../', 'image/large')
+const storyImagePath = path.resolve(__dirname, '../', '../', 'image/story')
 
 async function main() {
   const browser = await puppeteer.launch({
@@ -20,6 +29,11 @@ async function main() {
   })
 
   const page = await browser.newPage()
+
+  // 创建图片文件夹
+  await mkdirAsync(imagePath)
+  await mkdirAsync(largeImagePath)
+  await mkdirAsync(storyImagePath)
 
   const image = await handleGetBingImageData()
 
@@ -34,6 +48,28 @@ async function main() {
   } = await axios.get(`${storyUrl}${time}`).then(({ data }) => data)
 
   const data = await puppeteerFn(page, time)
+
+  const { story } = data
+
+  for (let i = 0; i < story.length; i++) {
+    const { miniImage = '' } = story[i]
+    const match =
+      miniImage.match(
+        /http:\/\/(.*)cn\.bing\.net\/th\?id=(.*)&pid=MSNJVFeeds/
+      ) || []
+    const type = match[1]
+    const name = match[2]
+
+    const target = `${storyImagePath}/${type}${name}.png`
+
+    if (type && name) {
+      story[
+        i
+      ].miniUrl = `https://zhanghao-zhoushan.cn/image/story/${type}${name}.png`
+      // 下载图片
+      await downLoadFile(miniImage, target, `${time}`)
+    }
+  }
 
   const { copyright, name, url, dateString } = image
 
@@ -63,7 +99,7 @@ async function main() {
 }
 
 function handleGetBingImageData() {
-  return axios.get(url).then(({ data: { images } }) => {
+  return axios.get(url).then(async ({ data: { images } }) => {
     const {
       enddate: dateString,
       urlbase: urlBase1,
@@ -73,8 +109,11 @@ function handleGetBingImageData() {
     } = images[0]
 
     const name = urlbase.replace(/\/az\/hprichbg\/rb\//, '')
-    const url = `http://cdn.nanxiongnandi.com/bing/${name}_1366x768.jpg`
-    const imageUrl = `https://zhanghao-zhoushan.cn/image/large/${name}_1366x768.jpg`
+    const url = `https://cn.bing.com${urlBase2}`
+    const imageUrl = `https://zhanghao-zhoushan.cn/image/large/${name}_1920x1080.jpg`
+    const target = `${largeImagePath}/${name}.jpg`
+    // 下载图片
+    await downLoadFile(url, target, dateString)
 
     return {
       dateString,
@@ -173,9 +212,9 @@ async function puppeteerFn(page, date) {
 }
 
 module.exports = () => {
-  const time = '18 11 * * *'
+  const time = '22 5 * * *'
   schedule.scheduleJob(time, function() {
     main()
-    console.log(`The schedule.scheduleJob ${time} !`)
+    console.log(`🔥  The schedule.scheduleJob in ${time} !`)
   })
 }
