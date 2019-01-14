@@ -15,8 +15,8 @@ schedule()
 
 class ImageController {
   static async getImagesAll(ctx) {
-    const count = await Image.count({})
-
+    const count = await Image.countdocuments({})
+    console.log(`🔥  检索到 ${count} 条列表数据 !`)
     if (count) {
       const collect = await Image.find({})
         .sort(sort)
