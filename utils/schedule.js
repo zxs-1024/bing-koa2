@@ -212,7 +212,7 @@ async function puppeteerFn(page, date) {
 }
 
 module.exports = () => {
-  const time = '50 15 * * *'
+  const time = '30 10 * * *'
   schedule.scheduleJob(time, function() {
     main()
     console.log(`🔥  The schedule.scheduleJob in ${time} !`)
