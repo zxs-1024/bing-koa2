@@ -45,10 +45,11 @@ async function handleSaveData(imageData, detailData) {
   const detail = new Detail({ ...detailData })
   await detail.save(async (err, detail) => {
     if (err) return console.error(err)
+    console.log(`😎  储存详情成功！`, detail)
     const image = new Image({ ...imageData, detail: detail._id })
     await image.save((err, image) => {
       if (err) return console.error(err)
-      console.log(`储存详情成功！`, image.dateString)
+      console.log(`😎  储存列表成功！`, image)
     })
   })
 }
