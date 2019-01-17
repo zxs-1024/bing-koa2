@@ -39,10 +39,7 @@ function mkdirAsync(url) {
 // 下载文件
 function downLoadFile(source, target, date = '') {
   if (fs.existsSync(target)) {
-    console.log(
-      `😂  请注意，已经存在 ${target} 文件，为了防止文件覆盖，已经帮你中断写入啦！`
-    )
-    return Promise.resolve(target)
+    console.log(`😂  请注意，已经存在 ${target} 文件，帮你进行文件覆盖！`)
   }
   return request(source)
     .pipe(fs.createWriteStream(target))
