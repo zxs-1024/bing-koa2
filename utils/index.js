@@ -6,6 +6,7 @@ const { promisify } = require('util')
 const mkdir = promisify(fs.mkdir)
 
 const readCollect = require('./readCollect')
+const tinify = require('./tinify')
 
 async function handleImportLocalCollect(model) {
   console.log(`😂  没有数据，尝试从本地重新写入！`)
@@ -37,18 +38,19 @@ function mkdirAsync(url) {
 }
 
 // 下载文件
-function downLoadFile(source, target, date = '') {
+async function downLoadFile(source, target, date = '') {
   if (fs.existsSync(target)) {
     console.log(`😂  请注意，已经存在 ${target} 文件，帮你进行文件覆盖！`)
   }
-  return request(source)
-    .pipe(fs.createWriteStream(target))
-    .on('close', () => {
+
+  const tinifySource = tinify.fromUrl(source)
+
+  return tinifySource
+    .toFile(target)
+    .then(res => {
       console.log(`🌁  ${date} 下载 ${target} 文件成功！`)
     })
-    .on('error', err => {
-      console.log(err)
-    })
+    .catch(err => console.log(err))
 }
 
 module.exports = {
