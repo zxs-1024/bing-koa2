@@ -170,6 +170,23 @@ nginx -t
 nginx -s reload
 ```
 
+## tinify
+
+使用 tinify 进行图片压缩
+
+```js
+const tinify = require('tinify')
+
+tinify.key = 'HzYhScvVt9W5fxDk1l7rG6FV8ym3B54k'
+
+const tinifySource = tinify.fromUrl(source)
+tinifySource.toFile(target)
+```
+
+需要到 https://tinypng.com/dashboard/api 进行注册，获取 APIKey
+
+每月限调用 500 次
+
 ## Multer
 
 [Multer](https://github.com/expressjs/multer)
