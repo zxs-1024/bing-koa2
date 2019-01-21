@@ -3,7 +3,6 @@ const Schema = mongoose.Schema
 
 module.exports = function() {
   // define schema
-
   const DetailSchema = new Schema(
     {
       dateString: String,

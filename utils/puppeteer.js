@@ -97,6 +97,7 @@ async function main() {
   )
 }
 
+// 收集列表数据
 function handleGetBingImageData() {
   return axios.get(url).then(async ({ data: { images } }) => {
     const {
@@ -128,8 +129,13 @@ function handleGetBingImageData() {
 }
 
 // 收集图片详情
-async function puppeteerFn(page, date) {
-  await page.goto(`${detailUrl}${date}`)
+async function puppeteerFn(page) {
+  const date = new Date()
+  const month = date.getMonth() + 1
+  const time = `${date.getFullYear()}${
+    month < 10 ? `0${month}` : month
+  }${date.getDate()}`
+  await page.goto(`${detailUrl}${time}`)
 
   // 等待页面渲染
   // await page.waitForSelector('#hplaT .hplaTtl')
@@ -207,7 +213,7 @@ async function puppeteerFn(page, date) {
       title,
       story
     }
-  }, date)
+  }, time)
 }
 
 module.exports = main
