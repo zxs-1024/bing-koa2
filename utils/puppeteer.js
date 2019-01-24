@@ -10,9 +10,9 @@ const { handleSaveData } = require('./multiTableQuery')
 const { mkdirAsync, downLoadFile } = require('./index')
 
 const url =
-  'https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1546351489339&pid=hp&video=1'
-const storyUrl = 'https://cn.bing.com/cnhp/coverstory?d='
-const detailUrl = 'https://cn.bing.com/cnhp/life?currentDate='
+  'https://www2.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1546351489339&pid=hp&video=1'
+const storyUrl = 'https://www2.bing.com/cnhp/coverstory?d='
+const detailUrl = 'https://www2.bing.com/cnhp/life?currentDate='
 const time = dayjs().format('YYYYMMDD')
 
 const imagePath = path.resolve(__dirname, '../', '../', 'image')
@@ -54,17 +54,17 @@ async function main() {
     const { miniImage = '' } = story[i]
     const match =
       miniImage.match(
-        /http:\/\/(.*)cn\.bing\.net\/th\?id=(.*)&pid=MSNJVFeeds/
+        /https:\/\/www(.*).bing\.com\/th\?id=(.*)&pid=MSNJVFeeds/
       ) || []
-    const type = match[1]
+    const type = match[1].replace('www', '')
     const name = match[2]
 
-    const target = `${storyImagePath}/${type}${name}.png`
+    const target = `${storyImagePath}/s${type}.${name}.png`
 
     if (type && name) {
       story[
         i
-      ].miniUrl = `https://zhanghao-zhoushan.cn/image/story/${type}${name}.png`
+      ].miniUrl = `https://zhanghao-zhoushan.cn/image/story/s${type}.${name}.png`
       // 下载图片
       await downLoadFile(miniImage, target, `${time}`)
     }
@@ -109,7 +109,7 @@ function handleGetBingImageData() {
     } = images[0]
 
     const name = urlbase.replace(/\/az\/hprichbg\/rb\//, '')
-    const url = `https://cn.bing.com${urlBase2}`
+    const url = `https://www2.bing.com${urlBase2}`
     const imageUrl = `https://zhanghao-zhoushan.cn/image/large/${name}_1920x1080.jpg`
     const target = `${largeImagePath}/${name}.jpg`
     // 下载图片

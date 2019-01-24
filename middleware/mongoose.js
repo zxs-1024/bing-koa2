@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 const async = require('async')
-const { mongoConfig, database } = require('../config')
+const { mongoConfig, database } = require('../config/index.js')
 
 const options = {
   useNewUrlParser: true,
