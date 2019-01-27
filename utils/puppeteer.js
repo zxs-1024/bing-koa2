@@ -51,22 +51,16 @@ async function main() {
   const { story } = data
 
   for (let i = 0; i < story.length; i++) {
-    const { miniImage = '' } = story[i]
-    const match =
-      miniImage.match(
-        /https:\/\/www(.*).bing\.com\/th\?id=(.*)&pid=MSNJVFeeds/
-      ) || []
-    const type = match[1].replace('www', '')
+    let { miniImage } = story[i]
+    const match = miniImage.match(/https:\/\/(.*)?id=(.*)&pid=(.*)/) || []
     const name = match[2]
 
-    const target = `${storyImagePath}/s${type}.${name}.png`
+    const target = `${storyImagePath}/${name}.png`
 
-    if (type && name) {
-      story[
-        i
-      ].miniUrl = `https://zhanghao-zhoushan.cn/image/story/s${type}.${name}.png`
+    if (name) {
+      story[i].miniUrl = `https://zhanghao-zhoushan.cn/image/story/${name}.png`
       // 下载图片
-      await downLoadFile(miniImage, target, `${time}`)
+      await downLoadFile(miniImage.replace(/https/, 'http'), target, `${time}`)
     }
   }
 
