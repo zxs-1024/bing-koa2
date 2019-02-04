@@ -56,8 +56,18 @@ async function downLoadFile(source, target, date = '') {
     .catch(err => console.log(err))
 }
 
+const sleep = time => {
+  return new Promise(resolve => setTimeout(() => resolve(), time))
+}
+
+const fillZero = number => {
+  return number < 10 ? `0${number}` : number
+}
+
 module.exports = {
   handleImportLocalCollect,
   mkdirAsync,
-  downLoadFile
+  downLoadFile,
+  sleep,
+  fillZero
 }

@@ -7,7 +7,7 @@ const dayjs = require('dayjs')
 
 const mkdir = promisify(fs.mkdir)
 const { handleSaveData } = require('./multiTableQuery')
-const { mkdirAsync, downLoadFile } = require('./index')
+const { mkdirAsync, downLoadFile, fillZero } = require('./index')
 
 const url =
   'https://www2.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1546351489339&pid=hp&video=1'
@@ -126,9 +126,9 @@ function handleGetBingImageData() {
 async function puppeteerFn(page) {
   const date = new Date()
   const month = date.getMonth() + 1
-  const time = `${date.getFullYear()}${
-    month < 10 ? `0${month}` : month
-  }${date.getDate()}`
+  const time = `${date.getFullYear()}${fillZero(month)}${fillZero(
+    date.getDate()
+  )}`
   await page.goto(`${detailUrl}${time}`)
 
   // 等待页面渲染
