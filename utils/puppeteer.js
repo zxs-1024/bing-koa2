@@ -103,7 +103,10 @@ function handleGetBingImageData() {
     } = images[0]
 
     const name = urlbase.replace(/\/az\/hprichbg\/rb\//, '')
-    const url = `https://www2.bing.com${urlBase2}`
+    const url =
+      urlBase2.indexOf('http') > -1
+        ? urlBase2
+        : `https://www2.bing.com${urlBase2}`
     const imageUrl = `https://zhanghao-zhoushan.cn/image/large/${name}_1920x1080.jpg`
     const target = `${largeImagePath}/${name}.jpg`
     // 下载图片
