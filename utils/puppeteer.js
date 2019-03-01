@@ -101,7 +101,7 @@ function handleGetBingImageData() {
       copyright,
       urlbase
     } = images[0]
-    const splitUrl = url.split('/')
+    const splitUrl = urlbase.split('/')
     const name = splitUrl[splitUrl.length - 1]
     const url =
       urlBase2.indexOf('http') > -1
