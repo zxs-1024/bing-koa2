@@ -101,8 +101,8 @@ function handleGetBingImageData() {
       copyright,
       urlbase
     } = images[0]
-
-    const name = urlbase.replace(/\/az\/hprichbg\/rb\//, '')
+    const splitUrl = url.split('/')
+    const name = splitUrl[splitUrl.length - 1]
     const url =
       urlBase2.indexOf('http') > -1
         ? urlBase2
