@@ -102,7 +102,7 @@ function handleGetBingImageData() {
       urlbase
     } = images[0]
     const splitUrl = urlbase.split('/')
-    const name = splitUrl[splitUrl.length - 1]
+    const name = splitUrl[splitUrl.length - 1].replace('th?id=OHR.', '')
     const url =
       urlBase2.indexOf('http') > -1
         ? urlBase2
