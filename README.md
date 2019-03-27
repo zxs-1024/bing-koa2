@@ -208,6 +208,37 @@ location ~ /image/ {
 - expires 30d; 缓存 30 天
 - autoindex on; 目录浏览功能
 
+## Centos7 防火墙配置
+
+### 查看 firewall 服务状态
+
+```bash
+systemctl status firewalld
+```
+
+### 查看 firewall 的状态
+
+```bash
+firewall-cmd --state
+```
+
+### 开启、重启、关闭、firewalld.service 服务
+
+```bash
+# 开启
+service firewalld start
+# 重启
+service firewalld restart
+# 关闭
+service firewalld stop
+```
+
+### 查看防火墙规则
+
+```bash
+firewall-cmd --list-all
+```
+
 ## 参考资料
 
 [mongoose 基础入门](https://www.cnblogs.com/xiaohuochai/p/7215067.html#anchor9)
