@@ -6,6 +6,8 @@ node_modules
 build
 .history
 .vscode
+collect1
+detail1
 
 # Files
 yarn.lock
