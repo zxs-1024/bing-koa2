@@ -101,15 +101,15 @@ const browser = await puppeteer.launch({
 })
 ```
 
-## 通过 node-schedule 设置定时任务
+### 通过 node-schedule 设置定时任务
 
-### 安装
+#### 安装
 
 ```bash
 npm install node-schedule
 ```
 
-### 时间设置
+#### 时间设置
 
 ```bash
 *    *    *    *    *    *
@@ -123,7 +123,7 @@ npm install node-schedule
 └───────────────────────── second (0 - 59, OPTIONAL)
 ```
 
-### Example
+#### Example
 
 ```js
 const time = '11 11 * * *'
@@ -165,7 +165,7 @@ nginx -s reload
 
 #### 设置图片访问下载
 
-```bash
+```conf
 location ~ /image/ {
   add_header Content-Type "image/jpeg";
   add_header Content-disposition "attachment";
@@ -182,7 +182,7 @@ location ~ /image/ {
 
 图片静态资源缓存，缓存时间 30 天
 
-```bash
+```conf
 location ~ /image/large/(.*)_(\d+)x(\d+)\.(jpg|gif|png)$ {
   # add_header X-Cache-Status $upstream_cache_status;
   # proxy_cache img_cache;
