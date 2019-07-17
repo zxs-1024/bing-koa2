@@ -3,13 +3,14 @@ require('../models/Detail')()
 
 const mongoose = require('mongoose')
 const Image = mongoose.model('Image')
-const Detail = mongoose.model('Detail')
+// const Detail = mongoose.model('Detail')
 
-const { multiTableQuery } = require('../utils/multiTableQuery')
+// const { multiTableQuery } = require('../utils/multiTableQuery')
 const schedule = require('../utils/schedule.js')
 
-// 默认倒序
-const sort = { date: -1 }
+// sort
+const sort = { date: 1 }
+const reverseSort = { date: -1 }
 
 // 定时任务
 schedule()
@@ -22,11 +23,11 @@ class ImageController {
 
     if (count) {
       const collect = await Image.find({})
-        .sort(sort)
+        .sort(reverseSort)
         .limit(100)
       ctx.body = collect
     } else {
-      // 加载本地数据
+      // local data
       // multiTableQuery()
     }
   }
@@ -38,44 +39,46 @@ class ImageController {
     ctx.body = image
   }
 
-  // 查询单日
+  // search history by day
   static async getImageByDate (ctx) {
     const { date } = ctx.params
     const images = await Image.find({
       dateString: { $regex: date }
-    }).sort(sort)
+    }).sort(reverseSort)
 
     ctx.body = images
   }
 
-  // 查询单月
-  static async getImageByMonth (ctx) {
-    const { month } = ctx.params
-    const images = await Image.find({
-      dateString: { $regex: month }
-    }).sort({ date: 1 })
-
-    ctx.body = images
-  }
-
-  // 查询 history by year
+  // search history by year
   static async getImageHistoryByYear (ctx) {
     const { year } = ctx.params
     const regex = new RegExp(`${year}[0-9]{2}01`)
 
     const images = await Image.find({
       dateString: { $regex: regex }
-    }).sort({ date: 1 })
+    }).sort(sort)
 
     ctx.body = images
   }
 
-  // 分页查询 默认 10
+  // search by month
+  static async getImageByMonth (ctx) {
+    const { page, limit = 10, month } = ctx.params
+    const regex = new RegExp(`${month}[0-9]{2}`)
+    const images = await Image.paginate(
+      { dateString: { $regex: regex } },
+      { page, limit: Number(limit), sort }
+    )
+
+    ctx.body = images
+  }
+
+  // search by page
   static async getImageByPage (ctx) {
     const { page, limit = 10 } = ctx.params
     const images = await Image.paginate(
       {},
-      { page, limit: Number(limit), sort }
+      { page, limit: Number(limit), sort: reverseSort }
     )
 
     ctx.body = images
