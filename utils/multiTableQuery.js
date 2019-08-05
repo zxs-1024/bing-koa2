@@ -14,7 +14,7 @@ const Detail = mongoose.model('Detail')
 const collectPath = 'collect'
 const detailsPath = 'detail'
 
-async function multiTableQuery() {
+async function multiTableQuery () {
   const resolvePath = path.resolve(__dirname, '../', collectPath)
   const files = await readdir(resolvePath)
 
@@ -23,7 +23,7 @@ async function multiTableQuery() {
   }
 }
 
-async function handleReadFile(file) {
+async function handleReadFile (file) {
   const imageBuffer = await readFile(
     path.resolve(__dirname, '../', collectPath, file)
   )
@@ -41,17 +41,28 @@ async function handleReadFile(file) {
   }
 }
 
-async function handleSaveData(imageData, detailData) {
+async function handleSaveData (imageData, detailData) {
   const detail = new Detail({ ...detailData })
-  await detail.save(async (err, detail) => {
-    if (err) return console.error(err)
-    console.log(`😎  储存详情成功！`, detail)
-    const image = new Image({ ...imageData, detail: detail._id })
-    await image.save((err, image) => {
-      if (err) return console.error(err)
-      console.log(`😎  储存列表成功！`, image)
-    })
+  const hasDetailArray = await Detail.find({
+    dateString: { $regex: detail.dateString }
   })
+  if (!hasDetailArray.length) {
+    await detail.save(async (err, detail) => {
+      if (err) return console.error(err)
+      console.log(`😎  储存详情成功！`, detail)
+      const image = new Image({ ...imageData, detail: detail._id })
+      const hasImageArray = await Image.find({
+        dateString: { $regex: detail.dateString }
+      })
+      if (!hasImageArray.length) {
+        await image.save((err, image) => {
+          if (err) return console.error(err)
+          console.log(`😎  储存列表成功！`, image)
+        })
+      }
+    })
+  }
+
 }
 
 module.exports = {

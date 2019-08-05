@@ -20,6 +20,8 @@ pm2 start ./bin/www --watch
 
 > pm2 start 就是 npm start，会帮你调用 node ./bin/www; --watch 监听 koa2 应用代码，当代码发生变化，pm2 会帮你重启服务。
 
+PS: 因为设置了定时任务，不需要增加 `--watch` 参数，否则定时任务会重复触发。
+
 #### command
 
 ```bash
