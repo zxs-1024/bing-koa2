@@ -4,10 +4,10 @@ const ImageController = require('../controller/ImageController')
 router.prefix('/bing/api/v1')
 
 router.get('/images', ImageController.getImagesAll)
-router.get('/images/:id', ImageController.getImagesById)
-router.get('/images/date/:date', ImageController.getImageByDate)
-router.get('/images/:page/:limit', ImageController.getImageByPage)
-router.get('/images/history/:year', ImageController.getImageHistoryByYear)
-router.get('/images/month/:month/:page/:limit', ImageController.getImageByMonth)
+router.get('/images/getImageDetailsById/:id', ImageController.getImageDetailsById)
+router.get('/images/getImageDetailsByDate/:date', ImageController.getImageDetailsByDate)
+router.get('/images/getImageHistory/:page/:limit', ImageController.getImageHistory)
+router.get('/images/getImageHistoryByYear/:year', ImageController.getImageHistoryByYear)
+router.get('/images/getHistoryByMonth/:month/:page/:limit', ImageController.getHistoryByMonth)
 
 module.exports = router

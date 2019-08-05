@@ -32,7 +32,7 @@ class ImageController {
     }
   }
 
-  static async getImagesById (ctx) {
+  static async getImageDetailsById (ctx) {
     const { id } = ctx.params
     const image = await Image.findById(id).populate({ path: 'detail' })
 
@@ -40,11 +40,12 @@ class ImageController {
   }
 
   // search history by day
-  static async getImageByDate (ctx) {
+  static async getImageDetailsByDate (ctx) {
     const { date } = ctx.params
     const images = await Image.find({
       dateString: { $regex: date }
     }).sort(reverseSort)
+      .limit(100)
 
     ctx.body = images
   }
@@ -57,12 +58,13 @@ class ImageController {
     const images = await Image.find({
       dateString: { $regex: regex }
     }).sort(sort)
+      .limit(100)
 
     ctx.body = images
   }
 
   // search by month
-  static async getImageByMonth (ctx) {
+  static async getHistoryByMonth (ctx) {
     const { page, limit = 10, month } = ctx.params
     const regex = new RegExp(`${month}[0-9]{2}`)
     const images = await Image.paginate(
@@ -74,7 +76,7 @@ class ImageController {
   }
 
   // search by page
-  static async getImageByPage (ctx) {
+  static async getImageHistory (ctx) {
     const { page, limit = 10 } = ctx.params
     const images = await Image.paginate(
       {},
