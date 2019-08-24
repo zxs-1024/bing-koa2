@@ -19,10 +19,10 @@ const cos = new Cos({ ...cosConfig })
 const DirPath = 'uploads/'
 
 const storage = multer.diskStorage({
-  destination: function(req, file, cb) {
+  destination: function (req, file, cb) {
     cb(null, DirPath)
   },
-  filename: function(req, file, cb) {
+  filename: function (req, file, cb) {
     cb(null, file.originalname)
   }
 })
@@ -40,7 +40,7 @@ router.post('/upload', upload.single('file'), async (ctx, next) => {
   const FilePath = path.resolve(__dirname, '../', DirPath, Key)
   const params = { ...uploadConfig, Key, FilePath }
 
-  cos.sliceUploadFile(params, function(err, data) {
+  cos.sliceUploadFile(params, function (err, data) {
     if (err) return console.error(err)
     ctx.body = data.Key
   })

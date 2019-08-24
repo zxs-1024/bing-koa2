@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 const mongoosePaginate = require('mongoose-paginate')
 const Schema = mongoose.Schema
 
-module.exports = function() {
+module.exports = function () {
   // define schema
   const ImageSchema = new Schema(
     {

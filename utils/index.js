@@ -1,14 +1,12 @@
 const async = require('async')
 const fs = require('fs')
-const path = require('path')
-const request = require('request')
 const { promisify } = require('util')
 const mkdir = promisify(fs.mkdir)
 
 const readCollect = require('./readCollect')
 const tinify = require('./tinify')
 
-async function handleImportLocalCollect(model) {
+async function handleImportLocalCollect (model) {
   console.log(`😂  没有数据，尝试从本地重新写入！`)
   await readCollect().then(data => {
     async.each(
@@ -23,7 +21,7 @@ async function handleImportLocalCollect(model) {
   })
 }
 
-function mkdirAsync(url) {
+function mkdirAsync (url) {
   return new Promise(async (resolve, reject) => {
     if (fs.existsSync(url)) {
       console.log(`📂  已经存在 ${url} 文件夹！`)
@@ -38,7 +36,7 @@ function mkdirAsync(url) {
 }
 
 // 下载文件
-async function downLoadFile(source, target, date = '') {
+async function downLoadFile (source, target, date = '') {
   if (fs.existsSync(target)) {
     console.log(
       `😂  请注意，已经存在 ${target} 文件，为了防止文件覆盖，已经帮你中断写入啦！`
