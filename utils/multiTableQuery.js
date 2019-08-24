@@ -18,7 +18,7 @@ async function multiTableQuery () {
   const resolvePath = path.resolve(__dirname, '../', collectPath)
   const files = await readdir(resolvePath)
 
-  for (let i = 0; i < files.length; i++) {
+  for (let i = files.length - 1; i >= 0; i--) {
     await handleReadFile(files[i])
   }
 }
