@@ -3,7 +3,6 @@ const path = require('path')
 const async = require('async')
 const { promisify } = require('util')
 
-const writeFile = promisify(fs.writeFile)
 const readdir = promisify(fs.readdir)
 const readFile = promisify(fs.readFile)
 
